@@ -24,7 +24,7 @@ permalink: /:title
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: moyni/long-haul
 plugins:
   - jekyll-feed
 
