@@ -15,11 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: lower case opinions
 email: moynibell@gmail.com
-description: >-
-  Thoughts on startups, culture, people, communication, feminism, diversity, 
-  equality, building companies people love, and other miscellaneous things that 
-  come to mind. Brought to you by the former Head of People at GoCardless, Monzo & 
-  Snyk.
+description: Maria Campbell
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moynibell

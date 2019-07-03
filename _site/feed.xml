@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-02T18:41:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/07/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-07-02T18:37:50+01:00</published><updated>2019-07-02T18:37:50+01:00</updated><id>http://localhost:4000/jekyll/update/2019/07/02/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/07/02/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-03T11:15:09+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">lower case opinions</title><subtitle>Thoughts on startups, culture, people, communication, feminism, diversity,  equality, building companies people love, and other miscellaneous things that  come to mind. Brought to you by the former Head of People at GoCardless, Monzo &amp;  Snyk.</subtitle><entry><title type="html">Acceptable Transgressions: body hair &amp;amp; your greatest weakness</title><link href="http://localhost:4000/interviews,/hiring,/feminism/2019/07/02/acceptable-transgressions.html" rel="alternate" type="text/html" title="Acceptable Transgressions: body hair &amp; your greatest weakness" /><published>2019-07-02T12:00:00+01:00</published><updated>2019-07-02T12:00:00+01:00</updated><id>http://localhost:4000/interviews,/hiring,/feminism/2019/07/02/acceptable-transgressions</id><content type="html" xml:base="http://localhost:4000/interviews,/hiring,/feminism/2019/07/02/acceptable-transgressions.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -10,4 +10,97 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Connective Learning: mis-spending my training budget</title><link href="http://localhost:4000/learning/2019/06/30/connective-learning.html" rel="alternate" type="text/html" title="Connective Learning: mis-spending my training budget" /><published>2019-06-30T09:30:00+01:00</published><updated>2019-06-30T09:30:00+01:00</updated><id>http://localhost:4000/learning/2019/06/30/connective-learning</id><content type="html" xml:base="http://localhost:4000/learning/2019/06/30/connective-learning.html">I decided to change jobs a couple of months ago, so spent a bunch of time interviewing and really learnt a lot about myself.
+
+There were a few pieces of interesting feedback that were remarkably consistent across every person I interviewed with:
+1. I have a different perspective / think about problems differently to them.
+This has been a recurring theme in feedback from people I work with too (and friends!). 
+2. It is unclear what how I approach my own personal development
+
+I found this particularly interesting because I consider myself to be a curious person who spends a lot of time learning, and I really value the pursuit of learning - it's fun.
+
+I concluded that I need to get better at articulating how I think about learning: particularly as a People leader, where I'll be responsible for helping everyone in the company learn and develop! So I’ve spent some time considering this and uncovered the empiric truth of how I approach learning. 
+
+I found this exercise really helpful, so am sharing here both the way that I thought about this, and the conclusions I came to.
+
+# Problem finding, problem solving
+
+A couple of years ago I was fortunate enough to sneak into some of the talks at the exceptional Lead Developer conference in London. One really stuck with me - it hugely clarified something I'd been thinking about but hadn't developed a mental model for yet.
+
+Please either pause and watch it:  or at least open it in a new tab and promise me you'll watch it later.
+
+Fast forward to earlier this month, when I picked up Dan Pink's book To Sell Is Human. In one of the chapters, he pitches to his reader that the modern world of selling requires becoming a problem _finder_:
+
+&quot;[Problem finders] sort through vast amounts of information and inputs, often from multiple disciplines; experiment with a variety of different approaches; are willing to switch directions in the course of a project; and often take longer than their counterparts to complete their work.&quot;
+
+# Cooking
+
+This brings me to this morning. I’m on my way to a knife skills course.
+
+I really like food. I enjoy the creativity of making something delicious, and the gratification of spending time making a tangible thing then consuming it. There’s something around the instant feedback loop there too.
+
+When I first moved out of my parents' house and became responsible for feeding myself, I concluded that I needed to become able to cook well.
+
+A couple of caveats:
+* I didn’t really learn to cook at home; my mum wasn’t super experimental, so taught me the basics but in a very intuitive way. 
+* I find it hard to follow recipes - it limits my understanding of the WHY (&amp; reminds me of learning cookery at school where I spent about a year fucking up white sauce and pastry because I didn’t _get it_ enough to know what was important and how to fix mistakes)
+
+So I set about achieving this goal of &quot;becoming able to cook well&quot; through various different strands - assembling the building blocks or grammar &amp; syntax of food.
+
+Here's a list of the things I undertook, semi-deliberately, over the last 15(!!) years in order to become someone who can now cook well:
+* sought out nice restaurants within my budget and ate things I didn't know how to cook
+* read menus and collected themes of ingredients that people use together regularly
+* started drinking my way through red wine and reading the labels to understand what I liked
+* read a paper about soil, sun and climate change in relation to wine
+* spent a few hours browsing in a book store to understand what combinations of foods cropped up in which geographic areas
+* read more about climate, soil and local vegetables
+* moved in with a man who has strong feelings about texture in food
+* started trialling substitutions in my regular dishes to see what worked well (and what was actually disastrous or inedible)
+* bought The Flavour Thesaurus by Nikki Segnit and read it cover to cover to cement the themes of flavour pairings
+* watched my scientist sister cooking a roast dinner and how she thinks about heat
+* had a baby and observed his approach to self-feeding
+* read a series of papers about heat, which materials conduct, pre-heating, effect of moisture
+* read The Omnivore’s Dilemma by Michael Pollan
+* read the counterargument to this, Eating Animals by Jonathan Safran Foer
+* sniffed a bunch of spices at a spice market on vacation
+* took up origami (in the hope it would help me build the discipline of recipe-following!)
+* watched Salt Fat Acid Heat on Netflix (twice)
+* read a bunch of vegan blogs to get a better understanding of the politics of food
+* read Sight Smell Touch Taste Sound by Sybil Kapoor
+* signed up for a knife skills class
+* bought (but haven't read yet!) Lateral Cooking, also by Nikki Segnit
+
+Each of these things have help me build up a solid foundation on which I can build connections, understanding the history and politics and geography of food; cuisine, nutrition, balance; how the senses interplay in eating; the science behind how certain processes work.
+Which had given me a super strong, well-informed approach to building meals that _just work_ and can be cooked free-hand (because while my origami game is strong I still rebel whenever I attempt to follow a recipe).
+
+# Another, shorter example
+
+I’ve taken a similar approach to art:
+
+* hanging out in galleries
+* learning where pigments come from
+* studying aesthetics
+* reading The Story of Art by EH Gombrich
+* modelling for life drawing classes and listening intently
+* reading some pop science articles to understand how humans perceive colour
+* taking a course on contemporary art philosophy
+* reading about the history of colour
+* visiting more galleries &amp; exhibitions with engaged friends
+* deliberately seeking out artists I love in curated exhibitions whose topics are unfamiliar
+* taking up painting
+* picking up some paint by numbers versions of famous paintings to understand how to paint nuanced colours &amp; shade (I freaking love the [Van-Go kits](https://faradayscienceshop.com/collections/van-go-paint-by-number-kits/))
+* visiting yet more galleries....
+
+Building a web of perspectives, drawing connections between them, identifying and honing in on the empty spaces and starting to sketch in what’s missing. 
+
+# So what does this mean?
+
+This connective dabbling, building a web of learning and perspective, is how learning through my career has worked too. Getting a deep understanding of analogous &amp; adjacent spaces and combining these in between from a slightly askew perspective to end up with something built from scratch, ground-up, without completely ignoring conventional wisdom.
+
+I wonder how much of this is because I ended up studying philosophy for three years, and so dig deeply into epistemology, theory of knowledge and interlocking web-based models of truth and knowledge.
+
+In the startup world, we have a huge opportunity to do things differently. We can reexamine existing models and fill out the gaps, we can dig deeper to find the problem that actually matters and build a solution that works for us.
+
+In conventional business, if learning is a priority at all it's very linear. It's relatively easy to take a course that is obviously directly related to your role and will obviously directly impact your performance. But this isn't how everyone learns. I'd love to build a world where we make space for people to learn in this connective way. Where _of course_ your receptionist should take a user experience design course.
+
+Because I think if I told most companies that to help me learn to cook I need a JSTOR subscription and a case of wine, they'd laugh. But here we are; so why not?</content><author><name></name></author><summary type="html">I decided to change jobs a couple of months ago, so spent a bunch of time interviewing and really learnt a lot about myself.</summary></entry></feed>
