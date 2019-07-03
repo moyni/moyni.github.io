@@ -27,19 +27,19 @@ Fast forward to earlier this month, when I picked up Dan Pink's book To Sell Is 
 
 "[Problem finders] sort through vast amounts of information and inputs, often from multiple disciplines; experiment with a variety of different approaches; are willing to switch directions in the course of a project; and often take longer than their counterparts to complete their work."
 
-# Cooking
+# Becoming a good cook
 
 This brings me to this morning. I’m on my way to a knife skills course.
 
 I really like food. I enjoy the creativity of making something delicious, and the gratification of spending time making a tangible thing then consuming it. There’s something around the instant feedback loop there too.
 
-When I first moved out of my parents' house and became responsible for feeding myself, I concluded that I needed to become able to cook well.
+When I first moved out of my parents' house and became responsible for feeding myself, I concluded that I needed to become a good cook.
 
 A couple of caveats:
 * I didn’t really learn to cook at home; my mum wasn’t super experimental, so taught me the basics but in a very intuitive way. 
 * I find it hard to follow recipes - it limits my understanding of the WHY (& reminds me of learning cookery at school where I spent about a year fucking up white sauce and pastry because I didn’t _get it_ enough to know what was important and how to fix mistakes)
 
-So I set about achieving this goal of "becoming able to cook well" through various different strands - assembling the building blocks or grammar & syntax of food.
+So I set about achieving this goal of _becoming a good cook_ through various different strands - assembling the building blocks or grammar & syntax of food.
 
 Here's a list of the things I undertook, semi-deliberately, over the last 15(!!) years in order to become someone who can now cook well:
 * sought out nice restaurants within my budget and ate things I didn't know how to cook
