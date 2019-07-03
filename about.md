@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Maria Campbell. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've spent my career building high potential startups into fast-growing successful companies that people love to work at.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Over that time I've learnt a huge amount about people, culture, communication, hiring, and the tech startup ecosystem. I'll share some of what I've learnt here. 
 
+I'm also available for consulting from time to time! Get in touch if you'd like to work with me.
 
-[jekyll-organization]: https://github.com/jekyll
+You can find me on the internet:
+[twitter](https://twitter.com/moynibell) /
+[github](https://github.com/moyni) /
+[linkedin](https://linkedin.com/in/mm-campbell/)
+
