@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: contact
 title: contact
 permalink: /contact/
 ---
@@ -11,5 +11,3 @@ You can find me on the internet:
 [linkedin](https://linkedin.com/in/mm-campbell/)
 
 Or you can drop me an email:
-
-{% include contact-form.html %}
