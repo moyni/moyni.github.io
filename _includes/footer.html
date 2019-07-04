@@ -4,28 +4,25 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col one-half">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-
-      <div class="social-links">
-        {%- include social.html -%}
-      </div>
+      <div class="footer-col-1">
+      <h2 class="footer-heading">lower case opinions</h2>
     </div>
+
+    <div class="footer-col-1">
+      <ul class="contact-list">
+        <li class="social-media-list">
+          <a href="https://twitter.com/moynibell">twitter</a>
+        </li>
+        <li class="social-media-list">
+          <a href="https://linkedin.com/in/mm-campbell">linkedin</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="footer-col-1">
+      <p>&copy; 2019 Maria Campbell</p>
+    </div>
+    
 
   </div>
 
