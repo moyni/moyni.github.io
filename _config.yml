@@ -16,7 +16,7 @@
 title: lower case opinions
 description: Maria Campbell
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://lowercaseopinions.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moynibell
 github_username:  moyni
 permalink: /:title
