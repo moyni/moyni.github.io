@@ -4,7 +4,7 @@ title:  "Connective Learning: mis-spending my training budget"
 date:   2019-06-30 09:30:00 +0100
 categories: learning
 ---
-<p class="intro"><span class="dropcap">I</span> decided to change jobs a couple of months ago, so spent a bunch of time interviewing and really learnt a lot about myself.</p>
+I decided to change jobs a couple of months ago, so spent a bunch of time interviewing and really learnt a lot about myself.
 
 There were a few pieces of interesting feedback that were remarkably consistent across every person I interviewed with:
 1. I have a different perspective / think about problems differently to them.
