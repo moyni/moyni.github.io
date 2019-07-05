@@ -3,6 +3,7 @@ layout: post
 title:  "acceptable transgressions / body hair & your greatest weakness"
 date:   2019-07-02 12:00:00 +0100
 categories: interviews
+image: acceptable-transgressions.jpg
 ---
 
 One of the basic interview prep pieces of advice is to rehearse an answer for “what’s your greatest weakness?”
@@ -68,3 +69,5 @@ Interviewees: flip it.
 Pick one of the above, answer that instead, then ask the person interviewing you how they have supported someone in mitigating or overcoming their biggest weakness. 
 
 Then we can have real conversations, learn things about each other, and stop doing the dance where we say things for no reason.
+
+![Photo by Mel Poole on Unsplash](/assets/img/acceptable-transgressions.jpg)
