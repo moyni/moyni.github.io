@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: lower case opinions
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://lowercaseopinions.com # the base hostname & protocol for your site, e.g. http://example.com
+url: http://lowercaseopinions.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moynibell
 github_username:  moyni
 permalink: /:title
