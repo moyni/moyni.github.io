@@ -5,7 +5,7 @@ date:   2019-07-02 12:00:00 +0100
 categories: interviews
 ---
 
-One of the basic interview prep pieces of advice is to rehearse an answer for “what’s your greatest weakness?”
+<p class="intro"><span class="dropcap">O</span>ne of the basic interview prep pieces of advice is to rehearse an answer for “what’s your greatest weakness?”</p>
 
 I really dislike this question.
 
