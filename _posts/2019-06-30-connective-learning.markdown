@@ -3,6 +3,7 @@ layout: post
 title:  "connective learning / mis-spending my training budget"
 date:   2019-06-30 09:30:00 +0100
 categories: learning
+image: connective-learning.jpg
 ---
 I decided to change jobs a couple of months ago, so spent a bunch of time interviewing and really learnt a lot about myself.
 
@@ -99,3 +100,4 @@ In conventional business, if learning is a priority at all it's very linear. It'
 
 Because I think if I told most companies that to help me learn to cook I need a JSTOR subscription, a topographical map of Europe and a case of wine, they'd laugh. But here we are; so why not?
 
+![My current reading list](/assets/img/connective-learning.jpg)
