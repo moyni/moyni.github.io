@@ -10,7 +10,5 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  {% if page.image %}
   <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
-{% endif %}
 </head>
