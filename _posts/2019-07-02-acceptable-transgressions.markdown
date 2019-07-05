@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Acceptable Transgressions: body hair & your greatest weakness"
+title:  "acceptable transgressions | body hair & your greatest weakness"
 date:   2019-07-02 12:00:00 +0100
 categories: interviews
 ---
 
 One of the basic interview prep pieces of advice is to rehearse an answer for “what’s your greatest weakness?”
 
-I really dislike this question.
+I _really_ dislike this question.
 
 So often it’s asked because the interviewer has pulled it from a list of things to ask in interview, and so often it’s answered with something glib and unrevealing. You ask the question, I say the thing I prepared, we move on. You haven’t learnt anything about me, you haven’t prepared for receiving this info, you aren’t going to work with me to plan how we mitigate or improve this. 
 
@@ -19,13 +19,11 @@ It’s like body hair. Women’s body hair in particular.
 
 # The body hair that we're allowed
 
-We celebrate women (white cis women who are conventionally attractive according western beauty norms) when they transgress the ideal of hairlessness. Hey Halsey didn’t shave her underarms today and she's on the cover of Rolling Stone with her armpits out, that's a powerful feminist move.
-
-
+We celebrate women (white cis women who are conventionally attractive according western beauty norms) when they transgress the ideal of hairlessness. Hey [Halsey didn’t shave her underarms](https://www.teenvogue.com/story/halsey-unshaven-armpits-rolling-stone-cover) and she's on the cover of Rolling Stone with her armpits out, that's a powerful feminist move.
 
 Even unshaven legs are a symbol of non-conforming. 
 
-There are heaps of “my story” pieces in women’s magazines both online and offline about why someone chose not to remove all their body hair BUT they are all focussed on the acceptable transgressions, the palatable gaps.
+There are heaps of “my story” pieces in women’s magazines both online and offline about why someone chose not to remove all their body hair BUT they are all focussed on the acceptable transgressions, the palatable decisions to diverge from the norm.
 
 Ladies, if you’re “beautiful” enough, you can decide to not shave your legs or underarms. That's the message we take away.
 
@@ -49,6 +47,10 @@ So please stop asking “what’s your greatest weakness”. Please stop prepari
 
 # What instead?
 
+Do what you want with your body hair, folks, and stop casting judgement on others.
+
+And, perhaps more pertinently, interview better.
+
 Here are some of the questions I've used to achieve the goal that I think we ought to be aiming for when we consider asking this question:
 * what have you learnt about yourself in the last year?
 * how would you manager describe you? Would your coworkers say anything different? Why do you think that?
@@ -62,6 +64,7 @@ Here are some of the questions I've used to achieve the goal that I think we oug
 * Looking back at the job ad for this role, which parts do you think you’ll find most challenging?
 
 Interviewees: flip it.
+
 Pick one of the above, answer that instead, then ask the person interviewing you how they have supported someone in mitigating or overcoming their biggest weakness. 
 
 Then we can have real conversations, learn things about each other, and stop doing the dance where we say things for no reason.
