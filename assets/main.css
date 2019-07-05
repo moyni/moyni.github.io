@@ -6,6 +6,8 @@ dark spearmint: #4ba173
 text: #202729
 */
 
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 /**
  * Reset some basic elements
  */
@@ -19,7 +21,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Dosis", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, Roboto, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #202729;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -31,6 +33,10 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column; }
+  
+  body .intro {
+    font-size: 1.25em;
+    line-height: 1.7; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -370,6 +376,11 @@ table {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.post .dropcap {
+  color: #63d297;
+  margin-right: .45rem; }
+
 
 /**
  * Syntax highlighting styles
