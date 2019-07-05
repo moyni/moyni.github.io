@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "connective learning | mis-spending my training budget"
+title:  "connective learning / mis-spending my training budget"
 date:   2019-06-30 09:30:00 +0100
 categories: learning
 ---

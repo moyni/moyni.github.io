@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "acceptable transgressions | body hair & your greatest weakness"
+title:  "acceptable transgressions / body hair & your greatest weakness"
 date:   2019-07-02 12:00:00 +0100
 categories: interviews
 ---
