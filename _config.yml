@@ -19,6 +19,9 @@ url: https://lowercaseopinions.com # the base hostname & protocol for your site,
 twitter_username: moynibell
 github_username:  moyni
 permalink: /:title
+twitter:
+  username: moynibell
+  card: summary
 
 # Build settings
 markdown: kramdown
