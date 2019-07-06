@@ -1,4 +1,16 @@
 <head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143367946-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143367946-1');
+</script>
+
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,10 +20,7 @@
 <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-  {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
+
   <meta name="twitter:image" content="{{ site.url }}/assets/img/{{ page.image }}" />
   <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image }}" />
   <meta property="og:title" content="{{ page.title }}" />
