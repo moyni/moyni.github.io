@@ -22,7 +22,7 @@ permalink: /:title
 twitter:
   username: moynibell
   card: summary
-
+author: maria campbell
 # Build settings
 markdown: kramdown
 theme: minima

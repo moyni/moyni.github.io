@@ -4,6 +4,8 @@ title:  "acceptable transgressions / body hair & your greatest weakness"
 date:   2019-07-02 12:00:00 +0100
 categories: interviews
 image: acceptable-transgressions.jpg
+description: "We’re so focussed on performing vulnerability, performing boldness, that we don’t dig deep and truly examine these things and benefit from them."
+
 ---
 
 One of the basic interview prep pieces of advice is to rehearse an answer for “what’s your greatest weakness?”
