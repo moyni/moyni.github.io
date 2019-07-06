@@ -2,6 +2,8 @@
 layout: contact
 title: contact
 permalink: /contact/
+description: "get in touch with me"
+image: contact.jpg
 ---
 
 Drop me a message if you'd like to chat, have feedback, want to work with me or have questions I can help with.

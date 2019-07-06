@@ -2,6 +2,8 @@
 layout: page
 title: about
 permalink: /about/
+image: about.jpg
+description: "a little bit about me"
 ---
 
 Hi, I'm Maria Campbell.
