@@ -12,4 +12,4 @@ I've spent my career building high potential startups into fast-growing successf
 
 Over that time I've learnt a huge amount about people, culture, communication, hiring, and the tech startup ecosystem. I'll share some of what I've learnt here. 
 
-I'm also available for consulting from time to time! <a href="/contact/">Get in touch</a> if you'd like to work with me.
+I'm also available for public speaking, and I do consulting from time to time! <a href="/contact/">Get in touch</a> if you'd like to work with me.
