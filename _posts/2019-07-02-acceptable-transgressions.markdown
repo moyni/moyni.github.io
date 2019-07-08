@@ -10,7 +10,7 @@ description: "We’re so focussed on performing vulnerability, performing boldne
 
 One of the basic interview prep pieces of advice is to rehearse an answer for “what’s your greatest weakness?”
 
-I _really_ dislike this question.
+I _really_ dislike this question: because only _some_ answers are allowed.
 
 So often it’s asked because the interviewer has pulled it from a list of things to ask in interview, and so often it’s answered with something glib and unrevealing. You ask the question, I say the thing I prepared, we move on. You haven’t learnt anything about me, you haven’t prepared for receiving this info, you aren’t going to work with me to plan how we mitigate or improve this. 
 
