@@ -9,22 +9,26 @@ description: "You make it through a job interview and then the interviewer says 
 
 ---
 
-I’ve spent a lot of time interviewing - approaching 1000 hours, if not more! I’ve been interviewing regularly as part of my job for almost 5 years, and regularly spend 3-10 hours interviewing in any given week. I regularly shadow and coach interviewers. I design interview kits & question banks.
+I’ve spent a lot of time interviewing - approaching 1000 hours, if not more! I’ve been interviewing regularly as part of my job for almost 5 years, and regularly spend 3-10 hours interviewing in any given week. I regularly shadow and coach interviewers.
 
 One thing that varies wildly across the 1000+ candidates I've interviewed is what questions they ask when given time at the end of the session.
 
-Asking good questions shows curiosity & engagement, and it's hard (as an interviewer) to determine how significant or relevant it is when a candidate has good questions or no questions. I also find that the types of questions a candidate asks says a lot about what they care about.
+Asking good questions shows curiosity & engagement, and it's hard (as an interviewer) to determine how objectively significant or relevant it is when a candidate has good questions, or no questions. I find that the types of questions a candidate asks says a lot about what they care about. It's difficult not to bias towards preferring candidates who ask good questions; which is unfair if we as interviewers are making it hard for candidates to feel comfortable asking what they want to ask.
 
 When coaching interviewers, I've settled on a few tactics to ensure that the candidate feels able to ask whatever they like. I know some interviewers make this intimidating, and "do you have any questions?" is one of the _least_ inviting ways to ask this, especially to a nervous candidate.
 
 I like to ask:
 * What do you want to know about (company)?
-* What worries you about us, as a team or business or place to spend the next few years of your career?
+* What worries you about us, as a team or a business or a place to spend the next few years of your career?
 * Is there anything you'd like to know that hasn't been covered yet?
 
-I've pulled together an interview question bank specifically for candidates - the questions you should consider asking every interviewer you meet when changing role.
+These, in my experience, result in more questions from the candidate, and a more engaging conversation around their potential concerns.
 
-Some of these are the inverse of what I ask candidates for management roles; some I’ve been asked and borrowed(!); some are questions I have used myself in “networking” contexts.
+Part of all this interviewing and interview design, from the company perspective, results in pulling together question banks to cover off certain interview criteria. And when I set out on my own job search recently, I found myself building interview kits for myself as candidate.
+
+Here's the generalised version of my interview question bank, specifically for candidates - the questions you should consider asking every interviewer you meet when changing role.
+
+Some of these are the inverse of what I've asked candidates for management roles; some I’ve been asked and borrowed(!); some are questions I have used myself in “networking” contexts.
 
 # Your future manager:
 
