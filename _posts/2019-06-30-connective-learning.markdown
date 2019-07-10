@@ -24,7 +24,9 @@ I found this exercise really helpful, so am sharing here both the way that I tho
 
 A couple of years ago I was fortunate enough to sneak into some of the talks at the exceptional Lead Developer conference in London. One really stuck with me - it hugely clarified something I'd been thinking about but hadn't developed a mental model for yet.
 
-Please either pause and watch it:  or at least open it in a new tab and promise me you'll watch it later.
+[Implementers, Solvers, Finders - Randall Koutnik](https://www.youtube.com/watch?v=yIPbE7BssOs)
+
+Please either pause and watch it, or at least open it in a new tab and promise me you'll watch it later.
 
 Fast forward to earlier this month, when I picked up Dan Pink's book To Sell Is Human. In one of the chapters, he pitches to his reader that the modern world of selling requires becoming a problem _finder_:
 
