@@ -28,72 +28,72 @@ Some of these are the inverse of what I ask candidates for management roles; som
 
 # Your future manager:
 
-How would you describe your leadership style?
-What personality types do you find easiest to manage?
-When you're hiring, what general qualities do you look for?
-What do you think will be the biggest challenge here for me in particular?
-How would you see us working together?
-How do you structure your team?
-What are the planning & communication rhythms within the team?
-Can you tell me about a recent mistake or crisis or something that went wrong?
-How would you support my development?
-What's the most useful feedback you've had from the team?
-How do you approach giving critical feedback?
-Which team member's progression are you most proud of?
-When you're prioritising the team's work, what criteria do you use?
-Do you err on the side of experience or potential when hiring for your team?
-Why are you hiring for this role now?
-What would my first month here look like?
-How do you expect this role to change over the next 6-9 months?
-How do you measure success in the team?
+* How would you describe your leadership style?
+* What personality types do you find easiest to manage?
+* When you're hiring, what general qualities do you look for?
+* What do you think will be the biggest challenge here for me in particular?
+* How would you see us working together?
+* How do you structure your team?
+* What are the planning & communication rhythms within the team?
+* Can you tell me about a recent mistake or crisis or something that went wrong?
+* How would you support my development?
+* What's the most useful feedback you've had from the team?
+* How do you approach giving critical feedback?
+* Which team member's progression are you most proud of?
+* When you're prioritising the team's work, what criteria do you use?
+* Do you err on the side of experience or potential when hiring for your team?
+* Why are you hiring for this role now?
+* What would my first month here look like?
+* How do you expect this role to change over the next 6-9 months?
+* How do you measure success in the team?
 
 # Your future team-mates:
 
-What's surprised you the most since you joined?
-How does the team make decisions?
-What are the dynamics like in the team?
-What does conflict look like in this team? Can you give me a recent example?
-How does the company support building team camaraderie?
-What's the most useful feedback you've had from your manager?
-How much transparency is there around decisions made at the exec level?
-What do you find frustrating about working here?
-What have you learnt about yourself while working here?
-What are you most looking for in this role - how would this person help you?
-How would you & I work together, if I join?
-What's the biggest challenge for the team right now?
+* What's surprised you the most since you joined?
+* How does the team make decisions?
+* What are the dynamics like in the team?
+* What does conflict look like in this team? Can you give me a recent example?
+* What's the most useful feedback you've had from your manager?
+* What do you find frustrating about working here?
+* What have you learnt about yourself while working here?
+* What are you most looking for in this role - how would this person help you?
+* How would you & I work together, if I join?
+* What's the biggest challenge for the team right now?
 
 # Culture:
 
-How do you all communicate with each other?
-Roughly how much time do you spend in meetings each day?
-How much time do you spend with people in different functions?
-How does recognition work here?
-How do different teams interact with each other? If I want some input from design, how would I make that happen?
-What are the overall company goals for this quarter?
-Can you talk me through an org chart? (What's working well about the org structure?)
-If you could change one thing about the company, what would it be?
-How many people have left in the last year? Why?
-Can you tell me about a tough decision made at a company-level recently?
-What does "diversity" mean here?
-Does anyone work part-time, do you have any parents?
-What do you value, as a company?
-What are the biggest differences between here and the last place you worked?
-What was the main reason you joined?
+* How do you all communicate with each other?
+* Roughly how much time do you spend in meetings each day?
+* How much time do you spend with people in different functions?
+* How does recognition work here?
+* How does the company support building team camaraderie?
+* How much transparency is there around decisions made at the exec level?
+* How do different teams interact with each other? If I want some input from design, how would I make that happen?
+* What are the overall company goals for this quarter?
+* Can you talk me through an org chart? (What's working well about the org structure?)
+* If you could change one thing about the company, what would it be?
+* How many people have left in the last year? Why?
+* Can you tell me about a tough decision made at a company-level recently?
+* What does "diversity" mean here?
+* Does anyone work part-time, do you have any parents?
+* What do you value, as a company?
+* What are the biggest differences between here and the last place you worked?
+* What was the main reason you joined?
 
 # Business:
 
-What are you main acquisition channels?
-What are the biggest challenges to getting new customers on board?
-(if sales) What's the average deal size?
-What's your revenue at the moment?
-How many months of runway does the company have?
-What's the long-term goal for the business?
-Of your competitors, which one do you think is the highest risk to your business? Why?
-How do you expect headcount to change over the next six months?
-What's your sales strategy? How do you expect that to change over the next year?
-What's the make-up of the leadership team?
-Who's on the Board? How involved are they?
-Which business functions have you over-invested in? Why those?
+* What are your main acquisition channels?
+* What are the biggest challenges to getting new customers on board?
+* (if sales) What's the average deal size?
+* What's your revenue at the moment?
+* How many months of runway does the company have?
+* What's the long-term goal for the business?
+* Of your competitors, which one do you think is the highest risk to your business? Why?
+* How do you expect headcount to change over the next six months?
+* What's your sales strategy? How do you expect that to change over the next year?
+* What's the make-up of the leadership team?
+* Who's on the Board? How involved are they?
+* Which business functions have you over-invested in? Why those?
 
 # A quick note on research
 
