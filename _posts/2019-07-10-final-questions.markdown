@@ -9,9 +9,9 @@ description: "You make it through a job interview and then the interviewer says 
 
 ---
 
-I’ve spent a lot of time interviewing - approaching 1000 hours, if not more! I’ve been interviewing regularly as part of my job for almost 5 years, and regularly spend 3-10 hours interviewing in any given week. I regularly shadow and coach interviewers.
+I’ve spent a _lot_ of time interviewing. I’ve been interviewing regularly as part of my job for years, and regularly spend 3-10 hours interviewing in any given week. I shadow and coach interviewers, with a focus on making the time we spend interviewing more useful and enjoyable for all participants.
 
-One thing that varies wildly across the 1000+ candidates I've interviewed is what questions they ask when given time at the end of the session.
+One thing that has varied wildly across the 1000+ candidates I've interviewed is what questions they ask when given time at the end of the session.
 
 Asking good questions shows curiosity & engagement, and it's hard (as an interviewer) to determine how objectively significant or relevant it is when a candidate has good questions, or no questions. I find that the types of questions a candidate asks says a lot about what they care about. It's difficult not to bias towards preferring candidates who ask good questions; which is unfair if we as interviewers are making it hard for candidates to feel comfortable asking what they want to ask.
 
