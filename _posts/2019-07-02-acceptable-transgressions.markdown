@@ -72,4 +72,4 @@ Pick one of the above, answer that instead, then ask the person interviewing you
 
 Then we can have real conversations, learn things about each other, and stop doing the dance where we say things for no reason.
 
-![Photo by Mel Poole on Unsplash: hair removal paraphenalia](/assets/img/acceptable-transgressions.jpg)
+![Photo by Mel Poole on Unsplash](/assets/img/acceptable-transgressions.jpg)
