@@ -12,7 +12,7 @@ OK there are two things here:
 1. companies that _actually_ expect you to work 9-6 every day in the office.
 2. companies that haven't gotten round to articulating their expectations yet so have "9-6 with a one hour lunchbreak" in their contracts but you probably have some flex.
 
-And you know you have the right to formally request flexible working arrangements. There are a short list of reasons why a company can refuse:
+And you know you have the _right_ to formally request flexible working arrangements. There are a short list of reasons why a company can refuse:
 * extra costs that will damage the business
 * the work cannot be reorganised among other staff (if you're doing _fewer_ hours or your work is time-bound e.g. customer service)
 * people cannot be recruited to do the work (again, if you're doing _fewer_ hours)
