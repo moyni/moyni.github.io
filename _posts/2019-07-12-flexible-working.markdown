@@ -10,32 +10,37 @@ description: "I can sit at my desk 9-6 every day, or I can do great work. Which 
 
 I'm continually baffled by tech companies who set fixed working hours and expect everyone to work from the same place all the time. It feels old fashioned, in an industry that prides itself on innovation. And I've seen the advantages of flexible working play out - in terms of organisational effectiveness, as well as hiring & retention.
 
-Personally, I've worked part-time, I've worked from home 1-3x a week, I've worked fully remote from an apartment in Istanbul, and 
+Personally, I've worked part-time, I've worked from home 1-3x a week, I've worked fully remote from an apartment in Istanbul, and I've managed a globally distributed team spanning seven timezones.
 
 My first tech startup role, which I started just after my child's first birthday, was a four-day week: three days in the office, one day of completely unpredictable hours split across two days' naptimes, evenings and stolen hours at the weekend.
 
-I've worked in companies where there's a designated work-from-home day each week; I've also worked in a globally distributed company with teammates in other timezones with different public holidays.
+I've worked in companies where there's a designated work-from-home day each week; I've also worked in a globally distributed company where every team was distributed across at least two timezones with different public holidays and there were exactly zero hours each week which fell into 'normal business hours' for everyone in the company.
 
 There are so many advantages to flexible working, both for the individual and the company. I genuinely don't know if there's any role in any business that would be compelling enough for me to sacrifice these freedoms.
 
 # Ability to hire a more diverse team
 
-Parents are the obvious ones here. Childcare is a total nightmare and seems to be predicated on everyone working 9-5 with zero commute. Women with children typically shoulder the brunt of childcare responsibility.
+Parents are the obvious ones here. Childcare is a total nightmare and seems to be predicated on everyone working 9-5 with zero commute. Women with children typically shoulder the brunt of childcare responsibility in families, too.
 
-But this spans out to everyone with dependents or caring responsibilities - and in general, people of colour have more dependents than white people.
+This spans out further to everyone with adult dependents or caring responsibilities, too. In general, people of colour have more dependents than white people, so benefit even further from the flexibility to take a sibling or parent to a medical appointment or other activity.
 
-Flexible working also generally works better for folks with disabilities. Commuting during rush hours with a physical disability? Chronic illnesses often require relatively high amounts of contact time with medical specialists (who work standard business hours..!). And open-plan offices are really not well designed for neurodivergence. 
-
-With an organisational commitment to working flexibly, to accommodating different locations, you also make it easier to hire folks who want to work part-time.
+Flexible working also generally works better for folks with disabilities. Commuting during rush hours with a physical disability? Chronic illnesses often require relatively high amounts of contact time with medical specialists, and your stressed & depressed employees will want to see a therapist every week, all of which needs to take place during standard business hours. Open-plan offices are really not well designed for neurodivergence (or arguably neurotypicals, though my feelings about office design are firmly out of scope here).
 
 # Better communication
-If you can't rely on everyone being present, you need to _plan_ meetings instead of interrupting people's days.
 
 You need to have conversations in writing or wait till _all_ relevant people can attend. This lends itself to less synchronous decision-making, which benefits folks who like to ponder before deciding (vs people who live for snap decisions).
+
+More asynchronous communication, too: 
+
+Better documentation: 
 
 You also build a better organisational memory. The reason why you chose X instead of Y is fairly easy to surface through searching comms tools, rather than hoping to find someone who was involved in the decision (by guessing?) or hoping someone near you now happened to be in earshot when the decision was made.
 
 # Productivity
+
+If you can't rely on everyone being present, you need to _plan_ meetings instead of having many short ad hoc interrupt conversations.
+
+
 
 
 # Quality of work
