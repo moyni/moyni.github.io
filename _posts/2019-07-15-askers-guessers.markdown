@@ -4,7 +4,7 @@ title:  "askers & guessers / learning to say 'no' more often"
 date:   2019-07-15 22:30:00 +0100
 categories: culture
 image: askers-guessers.jpg
-description: "as a person, working with people, in organisations made up of people, we need to learn to communicate with different people, to make good requests, to say yes and how to say no whne we need to"
+description: "as a person, working with people, in organisations made up of people, we need to learn to communicate with different people, to make good requests, to say yes and how to say no when we need to"
 
 ---
 

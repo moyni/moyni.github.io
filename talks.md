@@ -2,7 +2,7 @@
 layout: page
 title: talks
 permalink: /talks/
-description: "I really enjoy talks and panels"
+description: "I really enjoy giving talks and taking part in panels"
 image: favicon.ico
 ---
 
