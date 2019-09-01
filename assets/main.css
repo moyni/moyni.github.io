@@ -19,8 +19,6 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Dosis", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #202729;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -39,7 +37,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+}
 
 /**
  * `main` element
@@ -77,17 +76,28 @@ li > ol {
 /**
  * Headings
  */
-body > h1, h2, h3, h4, h5, h6 {
-  color: #63d297
-  font-weight: 400;
-}
-
 body > h1 {
+  color: #63d297;
+  font-weight: 400;
   font-size: 32px;
+  font-family: "Dosis";
 }
 
 body > h2 {
+  color: #63d297;
+  font-weight: 400;
   font-size: 24px;
+  font-family: "Dosis";
+}
+
+/**
+* Main paragraphs
+*/
+
+p {
+  color: #202729;
+  font-family: "Roboto";
+  font-size: 16px;
 }
 
 /**
