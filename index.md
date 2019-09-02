@@ -5,5 +5,6 @@
 layout: home
 description: "some thoughts on people, startups, culture & hiring"
 image: favicon.ico
+short-tag: "home"
 
 ---

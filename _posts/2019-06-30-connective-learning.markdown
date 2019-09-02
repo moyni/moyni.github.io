@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "connective learning / mis-spending my training budget"
+short-tag: "connective learning"
 date:   2019-06-30 09:30:00 +0100
 categories: learning
 image: connective-learning.jpg
