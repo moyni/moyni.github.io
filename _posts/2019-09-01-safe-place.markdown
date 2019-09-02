@@ -20,7 +20,7 @@ Nothing screws your confidence and your mental health like lots of short stints 
 
 I have a tendency to join early stage startups and have frequently been the second woman, the first parent, and the first senior woman. Here is my cheat sheet for working out if a company I'm considering working with is toxic.
 
-*Important Caveat*: I’m a white woman with no visible disabilities, I’m not obviously both queer and a parent, so this is based on my personal experience only. I’m also fortunate to have always been in a position where I can pull out of an interview process if I don’t like the culture, whereas I know many don’t have the same level of choice, and often it's a case of the lesser of two evils.
+*Important Caveat*: I’m a white woman with no visible disabilities, I’m not obviously queer or a parent, so this is based on my personal experience only. I’m also fortunate to have always been in a position where I can pull out of an interview process if I don’t like the culture, whereas I know many don’t have the same level of choice, and often it's a case of the lesser of two evils.
 
 # Before you meet them
 I'd recommend doing these before you apply for a role or confirm that you'd like to interview. Understand roughly what the company's culture is like, and where you'll need to focus your attention.
