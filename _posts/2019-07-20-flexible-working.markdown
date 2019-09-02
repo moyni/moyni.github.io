@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "flexible working / dolly parton was right you know"
+short-tag: "flexible working"
 date:   2019-07-20 15:00:00 +0100
 categories: culture
 image: flexible-working.jpg

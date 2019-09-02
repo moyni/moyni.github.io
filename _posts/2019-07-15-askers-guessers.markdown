@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "askers & guessers / learning to say 'no' more often"
+short-tag: "askers & guessers"
 date:   2019-07-15 22:30:00 +0100
 categories: culture
 image: askers-guessers.jpg

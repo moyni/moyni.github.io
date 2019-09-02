@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "toxic / finding a safe place to work"
+short-tag: "toxic"
 date:   2019-09-01 12:00:00 +0100
 categories: culture
 image: safe-place.jpg

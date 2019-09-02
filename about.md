@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about
+short-tag: "about"
 permalink: /about/
 image: about.jpg
 description: "a little bit about me"

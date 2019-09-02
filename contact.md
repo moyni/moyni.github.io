@@ -1,6 +1,7 @@
 ---
 layout: contact
 title: contact
+short-tag: "contact"
 permalink: /contact/
 description: "get in touch with me"
 image: contact.jpg

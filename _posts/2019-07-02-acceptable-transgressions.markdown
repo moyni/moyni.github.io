@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "acceptable transgressions / body hair & your greatest weakness"
+short-tag: "acceptable transgressions"
 date:   2019-07-02 12:00:00 +0100
 categories: interviews
 image: acceptable-transgressions.jpg
