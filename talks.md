@@ -9,6 +9,10 @@ image: favicon.ico
 
 I really enjoy public speaking, both giving talks and taking part in panels or Q&As. I bring my hottest takes!
 
+<h1>coming soon:</h1>
+
+* 11 September - The Importance of Candidate Experience (interview + panel) *Energon Events* [(register)](https://www.eventbrite.co.uk/e/the-importance-of-candidate-experience-energonevents-tickets-69096139413)
+
 <h1>some previous talks & panels:</h1>
 
 * I'm a Manager, now what? *Circle Community* 
