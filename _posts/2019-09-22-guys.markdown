@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "guys / the workplace code of conduct"
+short-tag: "guys"
+date:   2019-09-22 10:30:00 +0100
+categories: culture
+image: guys.jpg
+description: "Tools to understand and define the spirit of your workplace rules"
+
+---
+
+Is it ok to refer to a mixed-gender group as "guys"? Is it ok to ask people to change their vocabulary?
+
+Basically every place I’ve worked, we’ve had *some* version of this debate, and I am tired.
+
+There are women who find the term “guys” exclusive and resent being called “guys” in a group; there are people who argue that “guys” is gender-neutral ([it is not](https://medium.com/@jackdanger/the-end-of-guys-e42ef2d60b7a)).
+
+The principles that I think matter here expand out to a whole load of other line-drawing. Being able to articulate the *why* means that it's much easier to internalise which types of behaviours are acceptable and which we should avoid. It also makes it easier to know how to respond when you're called out.
+
+What I want to talk about is a framework we can use to simplify and generalise these types of decisions - around what behaviours are and are not permissible. These are specifically in a company context, but would make sense in society more generally too!
+
+The reason I care about this, is because reading and understanding and remembering a lot of rules is hard work, we're all very busy, and there's an easier way if we can just step back to illuminate the metaprinciple. So let's do it!
+
+# Freedom from, freedom to
+
+In 2009 the UK introduced a ban on smoking indoors. This means smokers are no longer free to smoke wherever they like; but it means everyone is by default free from breathing second hand smoke. The outcome is that life is slightly more inconvenient for smokers, but significantly less unpleasant for everyone who doesn’t want to be exposed to smoke, get cigarette burns in their clothes, smell weird thanks to passive smoking.
+
+Which freedom is more important here? The freedom to smoke wherever you like, or the freedom from secondhand smoke?
+
+# The Harm Principle
+
+Cool ok yes we can rephrase the question above to ask which of these matters more: the freedom _from_ the obligation to move to smoke, or the freedom _to_ breathe clean(ish) air?
+
+I don't want to turn this into a philosophy lecture; however there's an ethical/political stance around liberalism, power and free speech from JS Mill which is summed up in the Harm Principle. This broadly states that it is always justifiable to prevent someone from doing something that they'd like to do *if it prevents harm to others*.
+
+So let's reflect on what's more likely to be harm, here. I think it's pretty clear that secondhand smoke is a harm, whereas having to move to smoke is an inconvenience.
+
+Framed this way, you can see why I believe that most of the time the freedom from having X inflicted on me outweighs the freedom to do X. As a person with power in the workplace (or another opt-in situation), it’s FINE to reduce someone’s liberty or freedom-to PROVIDED that doing so minimises the harm caused, or preserves someone else’s freedom-from.
+
+If you want to read more about this, the [Stanford Encyclopaedia of Philosophy](https://plato.stanford.edu/entries/mill-moral-political/#MilLib) has a great starting point. I'm not totally on board with Mill's views, but think the Harm Principle is a useful device.
+
+# How this manifests with calling people “guys”
+
+Again here we're talking about a trade-off of 'freedoms'. The *freedom to* use a term that you're accustomed to, against the *freedom from* being excluded and othered through a microaggression.
+
+Think about the impact of the change on both groups here. It's not *that* hard to pick an acceptable, inclusive alternative to the term 'guys' and then to habituate yourself to using it. It is pretty hard to get used to being reminded that you don't belong.
+
+# Codes of conduct
+
+From open source software projects to events to banks ([not kidding](https://www.handbook.fca.org.uk/handbook/COCON.pdf)), codes of conduct have an odd existence. They're in a lot of places where we engage with each other, but they aren't always super clear.
+
+I’ve seen them abbreviated to “don’t be an asshole”, which is super vague, open to interpretation, and frankly an incredibly offhand dismissal of something so important. 
+
+Others include an almost-exhaustive list of behaviours that aren’t accepted, but always miss *something* so you still need to have these debates. 
+
+Worse, most workplaces don't reeeeally have one, so there's a lot of guesswork involved.
+
+The underlying principle in these situations is usually something akin to what I’ve set out above: act in a way that protects freedom-from and reduces harm.
+
+# Citizenship
+
+A huge part of building an inclusive workplace environment, or conference, or psychological safety within a team is violence reduction. Good corporate citizenship means taking actions to reduce the violence and aggression that your marginalised coworkers face every single day.
+
+Embedding this theory of freedom & harm, of impact & intent, makes it easier for people to follow the reasoning to draw their own conclusions. It makes it easier for people to understand and apply the spirit of your code of conduct or workplace norms.
+
+It’s certainly easier to *get* than trying to internalise a long list, hoping you remember it, hoping you infer the correct foundational principles, and hoping that the list is exhaustive!
+
+![Photo by Siora Photography on Unsplash: too many rules](/assets/img/guys.jpg)
