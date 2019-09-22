@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "guys / the workplace code of conduct"
+short-tag: "guys"
+date:   2019-09-22 14:15:00 +0100
+categories: culture
+image: guys.jpg
+description: "A way to articulate the spirit of your workplace norms, and clear up forever wherever you can call a mixed-gender group 'guys'"
+
+---
+
+Is it ok to refer to a mixed-gender group as "guys"? Is it ok to ask people to change their vocabulary?
+
+Basically every place I’ve worked, we’ve had *some* version of this debate, and I am tired.
+
+A huge part of building an inclusive workplace environment, or conference, or psychological safety within a team is violence reduction. Good corporate citizenship means taking actions to reduce the violence and aggression that your marginalised coworkers face every single day.
+
+That means delineating which behaviours are acceptable, and which are to be avoided or corrected.
+
+What I want to talk about is a framework I use to simplify and generalise decisions around what behaviours are and are not accepted. These are specifically in a company context, but apply equally to many codes of conduct.
+
+Reading and understanding and remembering a lot of rules is hard work: we're all very busy, and there's an easier way. We can shortcut this if we can just step back to illuminate and internalise the metaprinciple. So let's do it!
+
+# Freedom from, freedom to
+
+In 2009 the UK introduced a ban on smoking indoors. This means smokers are no longer free to smoke wherever they like; but it means everyone is by default free from breathing second hand smoke. The outcome is that life is slightly more inconvenient for smokers, but significantly less unpleasant for everyone who doesn’t want to be exposed to smoke, get cigarette burns in their clothes, smell weird thanks to passive smoking.
+
+Which freedom is more important here? The freedom to smoke wherever you like, or the freedom from secondhand smoke?
+
+# The Harm Principle
+
+BUT, if you want to challenge this, you can just rephrase the question above to ask which of these matters more: the freedom _from_ the obligation to move to smoke, or the freedom _to_ breathe clean(ish) air? This kind of wordplay isn't really the point.
+
+I don't want to turn this into a philosophy lecture; however there's an ethical/political stance around liberalism, power and free speech from JS Mill which is summed up in the Harm Principle. This broadly states that it is always justifiable to prevent someone from doing something that they'd like to do *if it prevents harm to others*.
+
+So let's reflect on what's more likely to be harm, here. I think it's pretty clear that secondhand smoke is a harm, whereas having to move to smoke is an inconvenience.
+
+Framed this way, you can see why I believe that most of the time the freedom from having X inflicted on me outweighs the freedom to do X. As a person with power in the workplace (or another opt-in situation), it’s FINE to reduce someone’s liberty or freedom-to PROVIDED that doing so minimises the harm caused, or preserves someone else’s freedom-from.
+
+If you want to read more about this, the [Stanford Encyclopaedia of Philosophy](https://plato.stanford.edu/entries/mill-moral-political/#MilLib) has a great starting point. I'm not totally on board with Mill's views, but think the Harm Principle is a useful device.
+
+# How this manifests around “guys”
+
+There are women & non-binary people who find the term “guys” exclusive and resent being called “guys” in a group; there are people who argue that “guys” is gender-neutral ([it is not](https://medium.com/@jackdanger/the-end-of-guys-e42ef2d60b7a)).
+
+Often I've seen this debate hit a wall when we get to the trade-off of 'freedoms'. The *freedom to* use a term that you're accustomed to, against the *freedom from* being excluded and othered through a [microaggression](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions).
+
+Let's think about the impact of the change on both groups here:
+* It is draining to be continually reminded that you don't belong in some way, that you are 'other' from the default. Microaggressions can take a real psychological toll on their recipients.
+* It's not *that* hard to pick an acceptable, inclusive alternative to the term 'guys' and then to habituate yourself to using it.
+
+Learning to use a couple of different words is at most an inconvenience, not a harm. There's no evidence that shifting the language you use is damaging to your mental health. 
+
+Therefore it's completely appropriate to restrict people's liberty in this way, by asking them to use "folks" or "people" or "team" or choose-your-own-substitute, in order to avoid continued harm to marginalised folks.
+
+There are a lot of other norms for an inclusive workplace that follow the same principles.
+
+By embedding this theory of freedom & harm, we can make it easier to follow the reasoning and draw sound conclusions. It makes it easier for people to understand and apply the spirit of your code of conduct or workplace norms, without having to learn a long list of rules.
+
+![Photo by Siora Photography on Unsplash: too many rules](/assets/img/guys.jpg)
