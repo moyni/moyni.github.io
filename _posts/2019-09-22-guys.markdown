@@ -5,7 +5,7 @@ short-tag: "guys"
 date:   2019-09-22 14:15:00 +0100
 categories: culture
 image: guys.jpg
-description: "Tools to understand and define the spirit of your workplace rules"
+description: "A way to articulate the spirit of your workplace norms, and clear up forever wherever you can call a mixed-gender group 'guys'"
 
 ---
 
