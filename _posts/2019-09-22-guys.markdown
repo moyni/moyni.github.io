@@ -2,7 +2,7 @@
 layout: post
 title:  "guys / the workplace code of conduct"
 short-tag: "guys"
-date:   2019-09-22 10:30:00 +0100
+date:   2019-09-22 14:15:00 +0100
 categories: culture
 image: guys.jpg
 description: "Tools to understand and define the spirit of your workplace rules"
@@ -13,13 +13,13 @@ Is it ok to refer to a mixed-gender group as "guys"? Is it ok to ask people to c
 
 Basically every place I’ve worked, we’ve had *some* version of this debate, and I am tired.
 
-There are women who find the term “guys” exclusive and resent being called “guys” in a group; there are people who argue that “guys” is gender-neutral ([it is not](https://medium.com/@jackdanger/the-end-of-guys-e42ef2d60b7a)).
+A huge part of building an inclusive workplace environment, or conference, or psychological safety within a team is violence reduction. Good corporate citizenship means taking actions to reduce the violence and aggression that your marginalised coworkers face every single day.
 
-The principles that I think matter here expand out to a whole load of other line-drawing. Being able to articulate the *why* means that it's much easier to internalise which types of behaviours are acceptable and which we should avoid. It also makes it easier to know how to respond when you're called out.
+That means delineating which behaviours are acceptable, and which are to be avoided or corrected.
 
-What I want to talk about is a framework we can use to simplify and generalise these types of decisions - around what behaviours are and are not permissible. These are specifically in a company context, but would make sense in society more generally too!
+What I want to talk about is a framework I use to simplify and generalise decisions around what behaviours are and are not accepted. These are specifically in a company context, but apply equally to many codes of conduct.
 
-The reason I care about this, is because reading and understanding and remembering a lot of rules is hard work, we're all very busy, and there's an easier way if we can just step back to illuminate the metaprinciple. So let's do it!
+Reading and understanding and remembering a lot of rules is hard work: we're all very busy, and there's an easier way. We can shortcut this if we can just step back to illuminate and internalise the metaprinciple. So let's do it!
 
 # Freedom from, freedom to
 
@@ -29,7 +29,7 @@ Which freedom is more important here? The freedom to smoke wherever you like, or
 
 # The Harm Principle
 
-Cool ok yes we can rephrase the question above to ask which of these matters more: the freedom _from_ the obligation to move to smoke, or the freedom _to_ breathe clean(ish) air?
+BUT, if you want to challenge this, you can just rephrase the question above to ask which of these matters more: the freedom _from_ the obligation to move to smoke, or the freedom _to_ breathe clean(ish) air? This kind of wordplay isn't really the point.
 
 I don't want to turn this into a philosophy lecture; however there's an ethical/political stance around liberalism, power and free speech from JS Mill which is summed up in the Harm Principle. This broadly states that it is always justifiable to prevent someone from doing something that they'd like to do *if it prevents harm to others*.
 
@@ -39,30 +39,22 @@ Framed this way, you can see why I believe that most of the time the freedom fro
 
 If you want to read more about this, the [Stanford Encyclopaedia of Philosophy](https://plato.stanford.edu/entries/mill-moral-political/#MilLib) has a great starting point. I'm not totally on board with Mill's views, but think the Harm Principle is a useful device.
 
-# How this manifests with calling people “guys”
+# How this manifests around “guys”
 
-Again here we're talking about a trade-off of 'freedoms'. The *freedom to* use a term that you're accustomed to, against the *freedom from* being excluded and othered through a microaggression.
+There are women & non-binary people who find the term “guys” exclusive and resent being called “guys” in a group; there are people who argue that “guys” is gender-neutral ([it is not](https://medium.com/@jackdanger/the-end-of-guys-e42ef2d60b7a)).
 
-Think about the impact of the change on both groups here. It's not *that* hard to pick an acceptable, inclusive alternative to the term 'guys' and then to habituate yourself to using it. It is pretty hard to get used to being reminded that you don't belong.
+Often I've seen this debate hit a wall when we get to the trade-off of 'freedoms'. The *freedom to* use a term that you're accustomed to, against the *freedom from* being excluded and othered through a [microaggression](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions).
 
-# Codes of conduct
+Let's think about the impact of the change on both groups here:
+* It is draining to be continually reminded that you don't belong in some way, that you are 'other' from the default. Microaggressions can take a real psychological toll on their recipients.
+* It's not *that* hard to pick an acceptable, inclusive alternative to the term 'guys' and then to habituate yourself to using it.
 
-From open source software projects to events to banks ([not kidding](https://www.handbook.fca.org.uk/handbook/COCON.pdf)), codes of conduct have an odd existence. They're in a lot of places where we engage with each other, but they aren't always super clear.
+Learning to use a couple of different words is at most an inconvenience, not a harm. There's no evidence that shifting the language you use is damaging to your mental health. 
 
-I’ve seen them abbreviated to “don’t be an asshole”, which is super vague, open to interpretation, and frankly an incredibly offhand dismissal of something so important. 
+Therefore it's completely appropriate to restrict people's liberty in this way, by asking them to use "folks" or "people" or "team" or choose-your-own-substitute, in order to avoid continued harm to marginalised folks.
 
-Others include an almost-exhaustive list of behaviours that aren’t accepted, but always miss *something* so you still need to have these debates. 
+There are a lot of other norms for an inclusive workplace that follow the same principles.
 
-Worse, most workplaces don't reeeeally have one, so there's a lot of guesswork involved.
-
-The underlying principle in these situations is usually something akin to what I’ve set out above: act in a way that protects freedom-from and reduces harm.
-
-# Citizenship
-
-A huge part of building an inclusive workplace environment, or conference, or psychological safety within a team is violence reduction. Good corporate citizenship means taking actions to reduce the violence and aggression that your marginalised coworkers face every single day.
-
-Embedding this theory of freedom & harm, of impact & intent, makes it easier for people to follow the reasoning to draw their own conclusions. It makes it easier for people to understand and apply the spirit of your code of conduct or workplace norms.
-
-It’s certainly easier to *get* than trying to internalise a long list, hoping you remember it, hoping you infer the correct foundational principles, and hoping that the list is exhaustive!
+By embedding this theory of freedom & harm, we can make it easier to follow the reasoning and draw sound conclusions. It makes it easier for people to understand and apply the spirit of your code of conduct or workplace norms, without having to learn a long list of rules.
 
 ![Photo by Siora Photography on Unsplash: too many rules](/assets/img/guys.jpg)
