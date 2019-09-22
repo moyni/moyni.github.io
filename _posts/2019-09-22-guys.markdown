@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "guys / the workplace code of conduct"
+title:  "guys / trimming the workplace rulebook"
 short-tag: "guys"
 date:   2019-09-22 14:15:00 +0100
 categories: culture
