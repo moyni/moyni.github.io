@@ -3,9 +3,9 @@ layout: post
 title:  "askers & guessers / learning to say 'no' more often"
 short-tag: "askers & guessers"
 date:   2019-07-15 22:30:00 +0100
-categories: culture
+tags: culture
 image: askers-guessers.jpg
-description: "as a person, working with people, in organisations made up of people, we need to learn to communicate with different people, to make good requests, to say yes and how to say no when we need to"
+description: "A person, working with people, needs to make good requests & say no effectively."
 
 ---
 
@@ -117,5 +117,3 @@ As a manager, I'm doing my best to be an Asker on behalf of my team and an advoc
 The hardest thing about saying “no” more often is that it requires you to build a culture where Askers are safe to make requests without being judged as too demanding or arrogant, and Guessers feel safe enough to make their requests and receive a comfortable no. 
 
 It would, of course, be easier if we were all Askers, but a large part of being a person, working with people, in organisations made up of people, is examining and understanding tendencies & behaviours and doing our best to level the playing field wherever we can.
-
-![Photo by Clem Onojeghuo on Unsplash: guess how many sweets or ask for a sweet](/assets/img/askers-guessers.jpg)

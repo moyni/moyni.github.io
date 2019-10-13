@@ -1,42 +1,32 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: lower case opinions
+description: some thoughts on people, startups, culture & hiring
+permalink: /:title
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lowercaseopinions.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: moynibell
-github_username:  moyni
-permalink: /:title
-twitter:
-  username: moynibell
-  card: summary
-author: maria campbell
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+site-twitter: moynibell #if your site has a twitter account, enter it here
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Author Settings
+author: maria campbell # add your name
+author-img: about.jpg # add your photo
+about-author: people leader in high growth tech startups
+social-twitter: moynibell # add your Twitter handle
+social-linkedin: mm-campbell # add your Linkedin handle
+social-email: hello@lowercaseopinions.com # add your Email address
+
+# Disqus
+# discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+# analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

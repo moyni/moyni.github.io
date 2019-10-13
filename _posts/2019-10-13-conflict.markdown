@@ -3,9 +3,9 @@ layout: post
 title:  "nice / making conflict work"
 short-tag: "conflict"
 date:   2019-10-13 15:30:00 +0100
-categories: culture
+tags: culture, learning
 image: conflict.jpg
-description: "nice slows us down - let's have useful, productive, considerate conlict instead"
+description: "Being too nice slows us down - let's explore useful, productive, considerate conflict."
 
 ---
 
@@ -94,4 +94,3 @@ Let’s be kind, and let’s welcome conflict in: things run quicker, with bette
 
 Finally, a special shout-out of appreciation to all my delightful international colleagues over the years who’ve taught me the error of my English passive-aggressive ways..!
 
-![Fencing match - Photo by Micaela Parente on Unsplash](/assets/img/conflict.jpg)
