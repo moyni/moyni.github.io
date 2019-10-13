@@ -3,9 +3,9 @@ layout: post
 title:  "acceptable transgressions / body hair & your greatest weakness"
 short-tag: "acceptable transgressions"
 date:   2019-07-02 12:00:00 +0100
-categories: interviews
+tags: interviews
 image: acceptable-transgressions.jpg
-description: "We’re so focussed on performing vulnerability, performing boldness, that we don’t dig deep and truly examine these things and benefit from them."
+description: "We perform vulnerability & boldness for social acceptability; instead let's introspect to learn and grow."
 
 ---
 
@@ -72,5 +72,3 @@ Interviewees: flip it.
 Pick one of the above, answer that instead, then ask the person interviewing you how they have supported someone in mitigating or overcoming their biggest weakness. 
 
 Then we can have real conversations, learn things about each other, and stop doing the dance where we say things for no reason.
-
-![Photo by Mel Poole on Unsplash: hair removal paraphenalia](/assets/img/acceptable-transgressions.jpg)

@@ -3,9 +3,9 @@ layout: post
 title:  "connective learning / mis-spending my training budget"
 short-tag: "connective learning"
 date:   2019-06-30 09:30:00 +0100
-categories: learning
+tag: learning
 image: connective-learning.jpg
-description: "I think if I told most companies that to help me learn to cook I need a JSTOR subscription, a topographical map of Europe and a case of wine, they'd laugh."
+description: "Learning to cook using a JSTOR subscription, a topographical map & a case of wine."
 
 ---
 I decided to change jobs a couple of months ago, so spent a bunch of time interviewing and really learnt a lot about myself.
@@ -104,5 +104,3 @@ In the startup world, we have a huge opportunity to do things differently. We ca
 In conventional business, if learning is a priority at all it's very linear. It's relatively easy to take a course that is obviously directly related to your role and will obviously directly impact your performance. But this isn't how everyone learns. I'd love to build a world where we make space for people to learn in this connective way. Where _of course_ your receptionist should take a user experience design course.
 
 Because I think if I told most companies that to help me learn to cook I need a JSTOR subscription, a topographical map of Europe and a case of wine, they'd laugh. But here we are; so why not?
-
-![My current reading list](/assets/img/connective-learning.jpg)

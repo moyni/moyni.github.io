@@ -3,10 +3,10 @@ layout: post
 title:  "final questions / what to ask at the end of an interview"
 short-tag: "final questions"
 date:   2019-07-10 11:30:00 +0100
-categories: interviews
+tags: interviews
 permalink: /final-questions/
 image: final-questions.jpg
-description: "You make it through a job interview and then the interviewer says 'any questions' and you blank. For four interviews in a row. Here's a cheatsheet to save you."
+description: "When the job interviewer says 'any questions', please don't blank - here's a cheatsheet."
 
 ---
 
@@ -107,5 +107,3 @@ Please don't ask questions that you can look up online! I'd recommend looking at
 Work out who's interviewing you, look them up on LinkedIn to see if there's anything particularly pertinent in their background that you'd like to ask about (e.g. maybe they changed teams while at the company). Slice up your questions so you can focus on asking the most relevant interviewer and therefore getting the most useful answers.
 
 And finally, now you have a ton of things to ask, remember you've probably only got 10 mins with each interviewer to find this stuff out - prioritise the things that matter most to you, not just the questions that make you think you sound smart.
-
-![Photo by Tachina Lee on Unsplash: woman thinking](/assets/img/final-questions.jpg)

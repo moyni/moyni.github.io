@@ -3,9 +3,9 @@ layout: post
 title:  "toxic / finding a safe place to work"
 short-tag: "toxic"
 date:   2019-09-01 12:00:00 +0100
-categories: culture
+tags: culture, interviews
 image: safe-place.jpg
-description: "Know what you're getting yourself into - a checklist for identifying how safe a startup's culture will be for folks with marginalised identities"
+description: "A checklist to identify how safe a startup's culture is for folks with marginalised identities"
 
 ---
 
@@ -92,5 +92,3 @@ Another caveat: it can be super uncomfortable to ask these questions if you know
 Everyone has a different tolerance for workplace environments, and each person requires a different level of inclusivity to be able to perform their best and feel safe at work. From my perspective, very few of these things individually would cause me to veto a particular company; however I want to know as much as I can before joining so that I can take an informed risk.
 
 Sometimes you're wrong on your initial assessment - and the company turns out to be more toxic than you can handle. In this case, I'd immediately start looking for a new role, and completely disregard the standard advice that staying in a role for less than a year looks bad on your CV. Your mental health & happiness are more important, and a good employer will understand that.
-
-![Photo by Jackson Jost on Unsplash: no entry](/assets/img/safe-place.jpg)

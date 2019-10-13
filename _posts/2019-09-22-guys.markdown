@@ -3,9 +3,9 @@ layout: post
 title:  "guys / trimming the workplace rulebook"
 short-tag: "guys"
 date:   2019-09-22 14:15:00 +0100
-categories: culture
+tags: culture
 image: guys.jpg
-description: "A way to articulate the spirit of your workplace norms, and clear up forever wherever you can call a mixed-gender group 'guys'"
+description: "Articulating the spirit of workplace norms, and what to call a mixed-gender group."
 
 ---
 
@@ -57,4 +57,3 @@ There are a lot of other norms for an inclusive workplace that follow the same p
 
 By embedding this theory of freedom & harm, we can make it easier to follow the reasoning and draw sound conclusions. It makes it easier for people to understand and apply the spirit of your code of conduct or workplace norms, without having to learn a long list of rules.
 
-![Photo by Siora Photography on Unsplash: too many rules](/assets/img/guys.jpg)

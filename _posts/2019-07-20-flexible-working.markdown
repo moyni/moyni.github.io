@@ -3,9 +3,9 @@ layout: post
 title:  "flexible working / dolly parton was right you know"
 short-tag: "flexible working"
 date:   2019-07-20 15:00:00 +0100
-categories: culture
+tags: culture
 image: flexible-working.jpg
-description: "I can sit at my desk 9-6 every day, or I can do great work. The latter has unexpected advantages for your organisation's health"
+description: "Presenteeism is dangerous: flexibility has unexpected advantages for your organisation's health."
 
 ---
 
@@ -93,5 +93,3 @@ Here's an example of the kind of internal policy you might consider:
 - you are responsible for ensuring that your working schedule does not impact your team's ability to function effectively. Your team and manager are responsible for letting you know when your availability doesn't meet the team's needs.
 
 It can take a while to set guidelines and expectations that work for you, so it'll always be an iterative process. However it's well worth the time spent for the goodwill you'll buy from the team, and the additional effectiveness you'll all gain.
-
-![Photo by Aaron Burden on Unsplash: crayons and play](/assets/img/flexible-working.jpg)
