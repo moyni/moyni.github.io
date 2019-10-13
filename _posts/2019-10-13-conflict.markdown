@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "nice / making conflict work"
+short-tag: "conflict"
+date:   2019-10-13 15:30:00 +0100
+categories: culture
+image: conflict.jpg
+description: "nice slows us down - let's have useful, productive, considerate conlict instead"
+
+---
+
+I used to think I was conflict-averse - I get tense when people raise their voices, I’d do anything to avoid an argument, I hate feeling like I’m _wrong_ or like someone else thinks I’m stupid.
+
+I’m learning that being nice and agreeable isn’t actually that useful when trying to achieve something difficult when multiple people are involved with and impacted by both the process and outcome.
+
+Now, I find myself actively digging into conflict as soon as I sense it - because I hate wasting time, making under-informed decisions, and feeling awkwardly like someone disagrees but isn’t sure how to.
+
+# nice vs kind
+
+There’s a false dichotomy between being agreeable and having conflict. I want to explore this a bit: I think many people who are high-agreeability also engage in conflict from time to time.
+
+For me, the root of this dichotomy sits with the word “nice”, and how we conflate that with being agreeable.
+
+Nice is insipid, is easy, skirts around the difficult conversation. Nice needs to be perceived as likeable. Nice does what’s most palatable for everyone. Nice thrives on consensus and everybody agreeing and avoiding challenges. 
+
+Nice is not aspirational. I believe we should be aiming to be more _kind_, instead.
+
+Think back to your last “I told you so” moment:
+* Had you _actually_ told the person so?
+* Did you see it coming and imply that it might happen?
+* Was there a reason why you couldn’t help them avoid this?
+* Are you here because you were being nice and polite?
+* Or because you couldn’t persuade them to mitigate this problem?
+
+It’s not kind to let someone run into an obstacle you foresee. It’s hard to be heard, and to persuade people to listen, especially if you’re not in a position of power.
+
+There are parallels here with the chatter about radical candour, where anecdotally this was applied in practice with people being rude under the guise of “just being honest”. This is why kindness is so important to me. 
+
+As someone involved in many tough decisions that really impact people’s lives - I am, after all, the face of firing people - I need to focus on doing this with kindness, more than doing the nice thing.
+
+# Does it have to be personal?
+
+So much of the time, people avoid conflict to preserve personal relationships. However I’m finding that being proactive in surfacing potential conflicts helps to build and strengthen interpersonal relationships (provided it’s done with kindness!)
+
+Little interpersonal frictions and tensions can be quashed easily when you surface the causes of conflicts and work to address them.
+
+This breeds certainty in how the personal relationship stands, builds trust and respect, and makes it harder for personal resentment (due to misconstruing one another’s position) to build up.
+
+To do this takes a specific point of view: that conflict is not about squaring off against each other, but understanding the causes and putting them in front of both of you, and moving forward together to resolve them.
+
+We need to start from the stance that we’re both competent adults with similar amounts of context: if we disagree on what should happen next, then let’s work out where the dissonance is coming from.
+
+This becomes a togetherness exercise, focussed on finding common ground and misalignment on the following:
+* each person’s understanding of the problem
+* each person’s criteria for success
+* what we each value in a good solution
+* the relative weight each person puts on each of these criteria & values
+
+Once we’ve done this, the way forward is often far more clear.
+
+Then we’re working together to understand each other, with a view to achieving the optimal solution. This stifles the interpersonal element of the conflict quite quickly, because you’ve flipped the whole situation from ‘we disagree on something’ to ‘let’s work together on this’. You’re no longer dismissing or looking down on the other person, or persuading them that they’re wrong: you’re inviting them in to help achieve a goal together.
+
+# Pre-empting, vs preventing
+
+I’m now trying to develop this approach to conflict resolution into a superpower - so I can elicit useful early feedback and get stuff done quicker with fewer meetings.
+
+Part of this is because I’ve always had the CEO as my manager, who obviously never has time for quick check-ins - and partly because I hire my team to be proactive, focussed, intelligent creatives who need guidance and strategy more than instruction.
+
+As ever this was iterative and developed over time; I started with aiming for [30% feedback](https://42floors.com/blog/startups/thirty-percent-feedback) (four-minute read, I recommend it every month, it basically changed my professional life).
+
+After that I realised that actually it’s much easier to make “good” decisions if you understand how the people around you think about decision-making. Like how you can score higher on a test if you understand the marking scheme.
+
+The second version of this working process moved from “hey I’m 30% through this task, is it ok” to “here is my plan, I’ll share a recommendation and two other options with you when I hit 30% of the way through so you can let me know what direction you prefer”.
+
+Then I realised you can shortcut even more of this by fronting up the conflict earlier:
+* here’s what I think the problem/challenge/task is
+* here is what I want to achieve with a good solution
+* of X Y & Z I think Y is most important, Z is also necessary, X is a nice to have
+* is there anything that’s important to you that I’m missing, or anything you think I haven’t considered yet?
+
+This list of four steps makes everything sooooo much easier - no more running about doing unnecessary research; no more hearing frankly useless feedback like ‘this isn’t quite right but I’m not sure why’; no more spending time trying to optimise for something that’s not actually a priority; no more check-in meetings that could’ve been an FYI email.
+
+# Getting comfortable with conflict
+
+Hopefully you’re reading this thinking “ok cool, conflict is maybe not only non-terrible but also could be useful?”
+
+I’d recommend trying this approach, and starting small. Try this framework for the next small project you pick up (whether it’s work or not - I organised a friend’s hen party this way and it worked super well).
+
+Next time someone seems underwhelmed or like they think you’re on the wrong track, set our your thinking on these lines and work out where you & they disagree.
+
+Once you know what the disagreement is (e.g. they’re optimising for cost; you’re optimising for time; the other person thinks environmentally sustainable is the most important) it becomes so much easier to resolve.
+
+Let’s be kind, and let’s welcome conflict in: things run quicker, with better outcomes, and less awkwardness.
+
+Finally, a special shout-out of appreciation to all my delightful international colleagues over the years who’ve taught me the error of my English passive-aggressive ways..!
+
+![Fencing match - Photo by Micaela Parente on Unsplash](/assets/img/conflict.jpg)
