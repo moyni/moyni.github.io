@@ -84,11 +84,18 @@ Shuffle the cards and randomly allocate to each table at your dinner.
 
 Arrange your seating plan so there’s a mix of social groups / teams / tenures / seniorities. 
 
+*An example:*
+
+* I have two pet guinea pigs
+* I play drums in a jazz band
+* I spent nine months living in West Virginia
+
 *Play:*
 
-- Each group should try to work out who the person described on their card is
-- Find them and verify (person writes their name if true)
-- Winner is the first table to identify everyone on their cards; there is no prize except knowledge (although you can often have birthday-sparklers put in their desserts if you're at a group dinner)
+* Each group should try to work out who the person described on their card is
+* Find them and verify (person writes their name if true)
+* Winner is the first table to identify everyone on their cards; there is no prize except knowledge (although you can often have birthday-sparklers put in their desserts if you're at a group dinner)
+
 
 # The new team getting to know you set:
 
