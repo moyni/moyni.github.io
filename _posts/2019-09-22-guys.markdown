@@ -5,6 +5,8 @@ short-tag: "guys"
 date:   2019-09-22 14:15:00 +0100
 tags: culture
 image: guys.jpg
+related-1: "conflict"
+related-2: "teambuilding"
 description: "Articulating the spirit of workplace norms, and what to call a mixed-gender group."
 
 ---

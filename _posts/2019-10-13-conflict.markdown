@@ -5,6 +5,8 @@ short-tag: "conflict"
 date:   2019-10-13 15:30:00 +0100
 tags: culture, learning
 image: conflict.jpg
+related-1: "guys"
+related-2: "connective learning"
 description: "Being too nice slows us down - let's explore useful, productive, considerate conflict."
 
 ---

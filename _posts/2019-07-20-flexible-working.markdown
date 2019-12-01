@@ -5,6 +5,8 @@ short-tag: "flexible working"
 date:   2019-07-20 15:00:00 +0100
 tags: culture
 image: flexible-working.jpg
+related-1: "toxic"
+related-2: "teambuilding"
 description: "Presenteeism is dangerous: flexibility has unexpected advantages for your organisation's health."
 
 ---

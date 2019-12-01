@@ -5,6 +5,8 @@ short-tag: "connective learning"
 date:   2019-06-30 09:30:00 +0100
 tag: learning
 image: connective-learning.jpg
+related-1: "conflict"
+related-2: "teambuilding"
 description: "Learning to cook using a JSTOR subscription, a topographical map & a case of wine."
 
 ---

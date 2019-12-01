@@ -6,6 +6,8 @@ date:   2019-07-10 11:30:00 +0100
 tags: interviews
 permalink: /final-questions/
 image: final-questions.jpg
+related-1: "toxic"
+related-2: "acceptable transgressions"
 description: "When the job interviewer says 'any questions', please don't blank - here's a cheatsheet."
 
 ---

@@ -6,6 +6,8 @@ date:   2019-07-02 12:00:00 +0100
 tags: interviews
 image: acceptable-transgressions.jpg
 description: "We perform vulnerability & boldness for social acceptability; instead let's introspect to learn and grow."
+related-1: "final questions"
+related-2: "askers & guessers"
 
 ---
 
