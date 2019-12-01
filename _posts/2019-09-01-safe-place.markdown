@@ -5,6 +5,8 @@ short-tag: "toxic"
 date:   2019-09-01 12:00:00 +0100
 tags: culture, interviews
 image: safe-place.jpg
+related-1: "askers & guessers"
+related-2: "final questions"
 description: "A checklist to identify how safe a startup's culture is for folks with marginalised identities"
 
 ---

@@ -927,6 +927,12 @@ table tfoot td {
   clear: both;
 }
 
+.column {
+  float: left;
+  width: 45%;
+  padding: 0 5%;
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 .sidebar {
   display: -webkit-box;
@@ -1392,6 +1398,9 @@ a.newer-posts:hover {
         -ms-flex-direction: column;
             flex-direction: column;
   }
+  .column {
+    width: 100%
+  }
   .post .post-thumbnail {
     width: 100%;
   }
@@ -1431,6 +1440,9 @@ a.newer-posts:hover {
   }
   .sidebar footer {
     margin-bottom: 10px;
+  }
+    .column {
+    width: 100%
   }
   .about {
     text-align: center;
@@ -1482,6 +1494,9 @@ a.newer-posts:hover {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
             flex-direction: column;
+  }
+    .column {
+    width: 100%
   }
   .post .post-thumbnail {
     width: 100%;

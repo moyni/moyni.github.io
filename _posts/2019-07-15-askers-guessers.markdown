@@ -5,6 +5,8 @@ short-tag: "askers & guessers"
 date:   2019-07-15 22:30:00 +0100
 tags: culture
 image: askers-guessers.jpg
+related-1: "conflict"
+related-2: "teambuilding"
 description: "A person, working with people, needs to make good requests & say no effectively."
 
 ---

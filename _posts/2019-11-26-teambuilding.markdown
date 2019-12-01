@@ -5,6 +5,8 @@ short-tag: "teambuilding"
 date:   2019-11-26 10:45:00 +0000
 tags: culture, teams
 image: teambuilding.jpg
+related-1: "askers & guessers"
+related-2: "toxic"
 description: "Exercises for building community and trust that actually work - and aren't super awkward."
 
 ---
