@@ -32,15 +32,15 @@ layout: main
           {% for post in site.posts %}
             {% if post.short-tag == page.related-1 %}
             <div class="column" style="float: left">
-              <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-              <img class="preview-image" src={{ "/assets/img/" | prepend: site.baseurl | append : post.image}} alt="{{post.title}}">
+              <p><a href="{{ post.url }}">{{ post.title }}</p>
+              <img class="preview-image" src={{ "/assets/img/" | prepend: site.baseurl | append : post.image}} alt="{{post.title}}"></a>
             <p>{{ post.description }}</p>
           </div>
           {% endif %}
           {% if post.short-tag == page.related-2 %}
             <div class="column" style="float: left">
-              <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-              <img class="preview-image" src={{ "/assets/img/" | prepend: site.baseurl | append : post.image}} alt="{{post.title}}">
+              <p><a href="{{ post.url }}">{{ post.title }}</p>
+              <img class="preview-image" src={{ "/assets/img/" | prepend: site.baseurl | append : post.image}} alt="{{post.title}}"></a>
             <p>{{ post.description }}</p>
             </div>
           {% endif %}
