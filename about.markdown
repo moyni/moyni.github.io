@@ -11,13 +11,13 @@ I've built a career working in high-growth tech startups, series A to C (ish) an
 
 I have a theory that most people quit their jobs either _because_ of HR failings, or for reasons that modern people practices could mitigate (e.g. having an ill-equipped or unqualified manager). My personal mission is to take a human-centric approach to people practices, and build cultures where people can do their best work and grow.
 
-I started writing in summer 2019 when I deliberately gave myself a month out between jobs, and then found myself looking for productive and fun things to do with that time. Hence this blog.
+I started writing in summer 2019 when I deliberately gave myself a month out between jobs, and then found myself looking for productive and fun things to do with that time. Which is why this blog exists, and why it's built with [jekyll](https://jekyllrb.com/) despite my better judgement.
 
 My big passions are culture, diversity & inclusion, hiring well, feedback, and finding fun.
 
 # talks & panels
 
-I really enjoy public speaking, both giving talks and taking part in panels or Q&As. I bring my hottest takes!
+I really enjoy public speaking, both giving talks and taking part in panels or Q&As. I have been described as "lively" and "quite direct", both as positives!
 
 Previously:
 
