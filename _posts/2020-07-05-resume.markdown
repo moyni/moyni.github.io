@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "resume advice / showcasing your best self"
-short-tag: "resume advice"
+short-tag: "resume"
 date:   2020-07-05 13:30:00 +0100
 tag: interviews, hiring
-image: resume-advice.jpg
+image: resume.jpg
 related-1: "final questions"
 related-2: "toxic"
 description: "Applying for jobs sucks: some tips on making your CV work for you"
