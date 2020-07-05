@@ -5,6 +5,7 @@ short-tag: "resume"
 date:   2020-07-05 13:30:00 +0100
 tag: interviews, hiring
 image: resume.jpg
+permalink: /resume/
 related-1: "final questions"
 related-2: "toxic"
 description: "Applying for jobs sucks: some tips on making your CV work for you"
