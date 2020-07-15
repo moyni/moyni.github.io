@@ -19,6 +19,9 @@ My big passions are culture, diversity & inclusion, hiring well, feedback, and f
 
 I really enjoy public speaking, both giving talks and taking part in panels or Q&As. I have been described as "lively" and "quite direct", both as positives!
 
+Coming soon:
+* Demystifying the Hiring Process *Culturevist* [(online discussion)](https://culturevist.com/online-event-demystifying-the-hiring-process/)
+
 Previously:
 
 * The Importance of Candidate Experience *Energon Events*
