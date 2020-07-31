@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "better job ads / what are we actually hiring for?"
-short-tag: "resume"
+short-tag: "better job ads"
 date:   2020-07-31 15:40:00 +0100ß
 tag: interviews, hiring
 image: better-job-ads.jpg
 permalink: /better-job-ads/
 related-1: "askers & guessers"
 related-2: "acceptable transgressions"
-description: "Matching a real-life 40h job to a list of bullets on a webpage"
+description: "Matching a real-life actual job to a list of bullets on a webpage"
 
 ---
 
