@@ -90,7 +90,7 @@ A good hiring process should:
 * specify previous experience or knowledge we’d like to see
 * consist of interviews and assessments *specifically oriented* around these criteria
 
-It is very simple, yet not at all trivial to do well. It takes a reimagining of the hiring process, stepping away from the tendency to tweak others’ job ads, and to reconsider the job ad as a window into the real work and workplace/
+It is very simple, yet not at all trivial to do well. It takes a reimagining of the hiring process, stepping away from the tendency to tweak others’ job ads, and to reconsider the job ad as a window into the real work and workplace.
 
 When you’re writing a job ad, you’re in the company, so you already know & understand a host of things that our prospective job candidates don’t have access to. 
 
