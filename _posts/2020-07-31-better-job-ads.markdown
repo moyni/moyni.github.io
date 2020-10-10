@@ -2,7 +2,7 @@
 layout: post
 title:  "better job ads / what are we actually hiring for?"
 short-tag: "better job ads"
-date:   2020-07-31 15:40:00 +0100ß
+date:   2020-07-31 15:40:00 +0100
 tag: interviews, hiring
 image: better-job-ads.jpg
 permalink: /better-job-ads/
