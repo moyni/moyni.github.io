@@ -2,7 +2,7 @@
 layout: post
 title:  "useful values / guiding principles from ethics"
 short-tag: "useful values"
-date:   2020-10-10 11:40:00 +0000
+date:   2020-11-08 11:40:00 +0000
 tag: 
 image: useful-values.jpg
 permalink: /useful-values
