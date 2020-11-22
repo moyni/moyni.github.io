@@ -1,0 +1,149 @@
+---
+layout: post
+title:  "idle chatter / the organisational tool that works hard"
+short-tag: "chatter"
+date:   2020-11-22 12:50:00 +0000
+tag: 
+image: chatter.jpg
+permalink: /chatter
+related-1: "play"
+related-2: "connective learning"
+description: "Wasting time to shoot the breeze is an unexpectedly worthwhile investment"
+
+---
+
+We’re reluctant to waste time on chatter at work - but we shouldn’t be.
+
+Work chatter is what we do while we wait for the lift, eat lunch together, go to the pub, wait for the kettle to boil, wait for others to be ready to start the meeting. It feels pretty aimless, and it happens by chance and by nature in a colocated team.
+
+In a distributed team it’s much easier to avoid chatter, and focus on the day’s tasks. It’s both less obvious and less rude when we ignore the off-topic chatter happening in slack than it is when we ignore everyone in the kitchen when we go to get a coffee. The barrier to entry into these conversations is higher, too, when we’re not in the same place, so they feel like a more deliberate waste of time, when we could just be focussing on our work.
+
+One of the things many people cherish about working at home, rather than the office, is the lack of distractions and interruptions. Beyond that, it’s always easier to prioritise a task with a deadline over an undirected 30 mins of chatter with someone in another team.
+
+But we really need to treat idle chatter as the important organisational tool that it is. These small, off-task encounters and conversations do a lot of heavy lifting in making a company function well. We ought to collectively carve out time to invest in chatter. I think the reason that we don’t prioritise replicating this experience in distributed groups is because it has such an intangible long-term payoff. But it’s really important that we understand and encourage these behaviours for the long-term health and effectiveness of the companies where we work.
+
+First, I want to bring to light some of the reasons why it’s so important to make space for these aimless conversations in order to have an effective organisation. Secondly, I’ll share some tactics and tools I’ve found useful in various contexts to facilitate this.
+
+# The foundation for collaborative ways of working
+
+Collaborative behaviour thrives given a few conditions: a sense of shared identity and belonging; collective goals; assumption of future opportunities to collaborate; empathy; trust; and strong communication.
+
+By virtue of working together, the foundations for a shared sense of identity are in places, as (hopefully!) are collective goals, and an assumption of future opportunities to collaborate provided we both stay working at the same place. 
+
+Taking time to chatter helps us build trust and empathy, and sets the stage for strong communication, which can unlock creativity.
+
+## Chatter builds trust
+
+Trust is built on the combination of competence and vulnerability. 
+
+With the people that we work with, we believe in their competence when we see the outcomes of their work. We likely have a fairly high level of confidence in the hiring process that brings in our coworkers, so simply both being employed at the same company gives a baseline sense that we’re both equally competent at our roles, whatever they are.
+
+Especially within our own teams and in smaller companies, we can see what our coworkers are achieving. We can see the quality of their work, we see that they meet deadlines, and that when we ask for something or they commit to doing something, they deliver on it reliably.
+
+In group form - presentations to the whole company, sharing finished work, demonstrating product features when they launch - we emphasise competence. But this is only half of the foundations needed for trust. And it’s really in one to one contexts that it’s safest to show vulnerability and humanity.
+
+When we’re interacting one-to-one, where the primary objective isn’t to achieve something together, we create space to be vulnerable with each other. We can set aside our objective to seem competent and instead share things about ourselves. About our interests outside work, about challenges we’re facing, about the experiences that have shaped who we are. Things we’ve tried and failed, difficulties we’re coming across, things that aren’t how we’d like them to be.
+
+Vulnerability on a stage is hard to achieve, especially if you’re battling with impostor syndrome. The desire to emphasise our competence is strong, especially when appearing competent means staying employed and able to, you know, pay bills and eat. And that’s why these off-task incidental aimless chats are worth dedicating time to - as a small investment in building trust safely.
+
+## Chatter builds empathy
+
+By taking time to talk off-task, we develop a sense of connection with someone else. Through conversation, we understand what people are interested in, what motivates them, and what they care about. And we build empathy for them, which is key to respecting others.
+
+This off-task chatter also helps us understand what other people are working on, how busy they are, what their job actually entails, what they’re focussed on, how much pressure they’re under, what they are excited about.
+
+By learning more about someone, we build empathy for them. There’s evidence to indicate that readers of fiction develop higher empathy than those who read only non-fiction. Learning about others’ lives and perspectives helps us to develop our theory of mind, which enables us to relate better to other people.
+
+Through these off-task chats, we tease out similarities between ourselves and others. We learn about our differences, too. In the world of work, we typically take different perspectives on a problem based on our role and our background. For instance, in a strategy session, your commercial team and your development team will be thinking about success and feasibility from different points of view.
+
+This empathy that we build, through getting to know each other by chatter, makes it more natural for us to remember that their role exists, to think about problems through that lens, and to involve them in work that might affect them even tangentially.
+
+## Chatter makes task-based communication easier
+
+Much of communication is non-verbal. When we switch to text-based communication - like email or slack or comments on a shared document - we lose body language, pacing, tone and gesture.
+
+A lot of us are using emoji to add a layer of gesture to text (that, plus overenthusiastic punctuation!) but that doesn’t make up for all the information that’s lost when we’re communicating in text alone.
+
+Have you ever sent someone a paragraph asking for something or explaining a decision? And received a response of “ok”? How much time have you spent trying to interpret what that particular “ok” actually means?
+
+Has your boss ever dropped you a message asking if you have five minutes to chat? How much mental energy have you spent wondering whether you’re in trouble or getting fired?
+
+And have you noticed that this doesn’t feel the same from the people that you’re closest with? I know what an "ok" or a "fine" from my partner or sibling means. And that’s because we’ve developed such a deep familiarity with each other’s communication styles, developed through so much time conversing face to face.
+
+When we spend time together talking off-task, we get a lot more peripheral and non-verbal signals than we do when we’re exchanging terse comments on a spreadsheet. We get to understand each other’s styles and tones better, and we get more familiarity with each other’s voice. We find it easier to infer what is unsaid, which helps us understand better what the other person means. 
+
+And with enough idle chatter, eventually I can respond to your emails with “ok”. You won’t worry unduly, and I won’t feel obliged to expand to “ok, cool! That sounds awesome, thanks for putting all this thought in, please do go ahead with it as you’ve planned. I’m here, so let me know if you need anything :)” - we’ll both save time and mental energy.
+
+## Chatter transfers information & context
+
+A casual “what are you working on?” opens the door to context. However complex our projects are, sharing it in conversation helps us both build the context for it, to dig into what’s important and what’s difficult, and ultimately what the point of it is. Much like teaching, sharing helps the listener learn something new and the sharer to reinforce what they already know.
+
+Like a much more productive form of gossip, once that information is seeded with someone who has high social contacts, it spreads and connects.
+
+It lifts the veil of obscurity; I might not know what "plus" is as a project, or what "state sync" refers to, but once we’ve chatted and (almost inevitably) touched on what you’re working on, I have a ton more context on what and why, and can share that with others who are interested or when it comes up. Information then radiates in a low-effort way.
+
+This kind of pseudo-gossip is nowhere near as effective by itself as, say, a culture of documentation; but it can help shortcut and it provides an extra dimension. For example, if our company operates on the basis of full, deliberate transparency, it can still be hard to filter through to the high level context; there’s a lot of information to absorb, which can become distracting, whereas the things that come up during chatter tend to give us a weighting for what’s important or high profile right now. And if our company operates on a need-to-know basis, fruitful connections can be made through this kind of high-level sharing.
+
+It’s not just discrete work-specific information that gets shared during chatter, either. Casual conversation is where a lot of cultural norms surface and are transmitted.
+
+Every company I’ve worked in has had specific phrases it uses, like “directionally correct”, or “the eighty percent”. These high frequency turns of phrase are super telling about cultural norms, and they mostly spread in informal contexts, like a company-specific meme.
+
+## Chatter breaks down barriers
+
+Strong communication is hampered by friction. Siloed organisations really suffer from this: if we never cross paths with each other, it’s hard to understand what your role is, what you care about, what you’re working on, and why it’s important. We see disconnection between different teams, duplication of work, and problems taking a long time to be solved when they could’ve been shortcut effectively by bringing the right person’s expertise and perspective in earlier.
+
+Chatter breeds familiarity, which in turn breaks down the barrier to reaching out to someone. With the pandemic-driven shift to remote working, there’s been a general increase in how connected a team feels with each other, but a decrease in how connected teams feel to one another. We need to curb this disconnectedness if we want to have organisations that operate effectively. 
+
+Off-task chatter helps us bond on a human level, and reduces the barrier to reaching out to someone in another part of the organisation. If I’ve spent time talking to Jess in the sales team about her pets, and I’m working on a project that may or may not impact the sales function, it’s easier to reach out to Jess to (1) request cute pictures of her puppy and (2) give her a quick heads up about your project to see whether there’s anything I need to take into account from the sales perspective. 
+
+Cold outreach to someone we don’t know is harder: firstly because we need to choose the right person in the team, and secondly because the barrier to connect is higher. If we haven’t become familiar with one another already, it can feel like we’re placing a burden on the other person by asking a question, whereas if we’ve spent time chatting in the past then we have that base layer of understanding that they’re helpful, interested and human. We have some of the foundations for collaboration in place already, so it’s easier to ask the question without worrying.
+
+There have been so many times when I’ve personally seen this pay off. Once I was chattering with a product engineer about the annoyances of the logistical parts of my onboarding process, and they found a solution for me. Together we built the basic skeleton of a small webapp I could use for scheduling things automatically. Another time I was out for a walk with someone in the customer success team, and suggested they classify client accounts in a different way for upsell (which I’d heard about from one of my sales colleagues over drinks the previous week), and a problem was suddenly so much easier for them to solve.
+
+As I touched on earlier, it’s easier to show vulnerability in one on one interactions, so this chatter facilitates the kinds of obvious questions that may not have been explicitly answered in a high-context organisational culture. This layers over the company’s mission and strategy and goals to help us understand ever better what’s important.
+
+Chatter also helps us build additional layers of community. In a company, typically we have community within our team; community within our office; and perhaps community within the cohort of us that joined around the same time. Layering on informal communities strengthens the bonds within the organisation: we’ll have a community of people who share music recommendations; a community of book lovers; a community of people who play online board games once a month; and so on.
+
+It creates more connections between different nodes of the company. This builds on the sense of shared identity that we need for optimal collaboration.
+
+## Chatter feeds creativity
+
+Diverse teams are better at idea generation than homogenous teams. By pulling in perspectives from outside each team, we can maximise the benefits of diversity within our organisation. So much of idea generation is about crossover and analogy, taking a solution from one problem space and applying it to another. By idly chattering about our fields, our work, our interests and our passions, we can unlock new ideas and reach more fruitful solutions.
+
+Where so many businesses are now staffed by knowledge workers, creating space for that knowledge to flow freely is almost guaranteed to help us all become smarter, more knowledgeable and more creative.
+
+# Making space for chatter
+
+Given all of that ways that a little bit of aimless off-task chatter can benefit us, I think it’s absolutely worth investing 1-2% of our working time in. As we move to a more output-based measure of productivity, we’re slowly eroding the idea that working hard means being present at our desk, doing tasks for 8+ hours a day. Taking breaks increases our productivity, and if we can combine those breaks with idle chatter with our teammates, the tradeoff of short-term productivity for longer-term success makes even more sense.
+
+However it’s not enough to simply encourage our coworkers to chat to one another: often this will just reinforce existing relationships and cliques. An investment in chatter is a strategic decision that needs the right conditions in place to flourish. 
+
+There are some tactics we can put in place, keeping focus on the desired outcome, which will help us build more connections across the whole organisation, and to make the most of chatter as an organisational tool.
+
+## Set the stage for chatter
+
+As with most behavioural shifts, we need to set the tone and expectation from a place of power. It’s not enough to give each other permission, we need to create a clear expectation, and provide social influence. Even better if we can reinforce this in public with reflections on things we’ve learnt, sharing the enjoyable interactions we’ve had, screenshots or selfies during these chats, and so forth.
+
+For chatter to be a deliberate, enduring investment, we need to see that our leaders and our coworkers are committed to this, so we don’t feel like we’re loafing off.
+
+There are tools we can use to reinforce this expectation. I like donut.ai as it creates random pairings, facilitates scheduling, provides helpful nudges, and shares stats on usage to reinforce that social proof point - everyone else is doing it.
+
+## Make it easier for connections to form
+
+Lots of people don’t really enjoy small talk. We’re trying to build deep connections here, and there’s a ton of research on what kinds of topics are best to develop these. All require that people take it seriously, though! 
+
+I’d recommend using something like the School of Life cards, or some of the questions from my teambuilding exercises as a prompt. We need to make sure they’re available to folks during these one-to-one conversations.
+
+## Share off-task knowledge to spark creativity and connections
+
+Internal communications and meetings have a role to play here, too. Dedicating a few minutes at the start of cross-functional meetings to a quick icebreaker exercise helps. There are also rituals in your organisational communications cadence that can be leant on to support chatter and bonding.
+
+For example, shifting the emphasis of show and tell sessions to half-finished projects or exploring a challenge is really helpful for inculcating the habit of vulnerability, which, as discussed, lends itself to trust and collaboration.
+
+Another example is lunch & learns. We can de-emphasise strictly work-related topics, and open up to a broad range of diverse topics like photography, gardening, art history, economic theory. These build personal connections by demonstrating who we are as whole people, opening up paths to new communities; they also provide fuel for creativity by bringing in new knowledge that can spark analogies and new perspectives.
+
+## Orchestrate events to contrive new connections
+
+We touched on layers of community earlier. We can build these through carefully orchestrated groups designed to seed new relationships. For example, company-wide social events are a great opportunity for this: your "pub quiz" teams are pseudo-randomly created to mix people across tenure, department, geography, personality. The same goes for lunch roulette groups, tables at dinners, cohorts on training courses, and more.
+
+Idle chatter can do so much work to build trust, empathy, collaboration, community and creativity. It’s a small but extremely worthwhile investment if we’re building companies that we want to succeed.
