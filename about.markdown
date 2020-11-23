@@ -17,9 +17,10 @@ My big passions are culture, diversity & inclusion, hiring well, feedback, and f
 
 # talks & panels
 
-I really enjoy public speaking, both giving talks and taking part in panels or Q&As. I have been described as "lively" and "quite direct".
+I really enjoy public speaking, both giving talks and taking part in panels or Q&As.
 
 Previously:
+* Employment and Inclusion *Founders & Coders*
 * Demystifying the Hiring Process *Culturevist*
 * The Importance of Candidate Experience *Energon Events*
 * I'm a Manager, now what? *Circle Community* 
