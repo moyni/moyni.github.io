@@ -8,7 +8,7 @@ image: better-job-ads.jpg
 permalink: /better-job-ads/
 related-1: "askers & guessers"
 related-2: "acceptable transgressions"
-description: "Matching a real-life actual job to a list of bullets on a webpage"
+description: "Matching a real-life actual job to a list of bullets on a webpage."
 
 ---
 

@@ -8,7 +8,7 @@ image: mental-health.jpg
 permalink: /mental-health
 related-1: "acceptable transgressions"
 related-2: "play"
-description: "A personal post about my own mental health and learning to manage it"
+description: "A personal post about my own mental health and learning to manage it."
 
 ---
 

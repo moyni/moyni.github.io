@@ -8,7 +8,7 @@ image: resume.jpg
 permalink: /resume/
 related-1: "final questions"
 related-2: "toxic"
-description: "Applying for jobs sucks: some tips on making your CV work for you"
+description: "Applying for jobs sucks: some tips on making your CV work for you."
 
 ---
 

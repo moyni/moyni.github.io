@@ -8,7 +8,7 @@ image: useful-values.jpg
 permalink: /useful-values
 related-1: "guys"
 related-2: "teambuilding"
-description: "From live-laugh-love to Kant, Bentham & Aristotle - setting company values"
+description: "From live-laugh-love to Kant, Bentham & Aristotle - setting company values."
 
 ---
 

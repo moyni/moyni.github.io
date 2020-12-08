@@ -7,7 +7,7 @@ tags: culture, interviews
 image: safe-place.jpg
 related-1: "askers & guessers"
 related-2: "final questions"
-description: "A checklist to identify how safe a startup's culture is for folks with marginalised identities"
+description: "A checklist to identify how safe a startup's culture is for folks with marginalised identities."
 
 ---
 

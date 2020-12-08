@@ -8,7 +8,7 @@ image: chatter.jpg
 permalink: /chatter
 related-1: "play"
 related-2: "connective learning"
-description: "Wasting time to shoot the breeze is an unexpectedly worthwhile investment"
+description: "Wasting time to shoot the breeze is an unexpectedly worthwhile investment."
 
 ---
 
