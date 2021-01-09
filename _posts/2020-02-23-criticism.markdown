@@ -37,7 +37,7 @@ My inner world only contains my intentions, my perceptions, and the impact thing
 
 Other people have their own perceptions, intentions, and the impact things have on them. 
 
-Others can grant us an insight into this by sharing ther perceptions, and our impact on them, through feedback. It’s the only way we can truly get an insight into their sphere of being.
+Others can grant us an insight into this by sharing their perceptions, and our impact on them, through feedback. It’s the only way we can truly get an insight into their sphere of being.
 
 So when someone gives us feedback, they’re granting access to something that’s otherwise obscure and inaccessible to us.
 
