@@ -20,7 +20,9 @@ My big passions are culture, diversity & inclusion, hiring well, feedback, and f
 I really enjoy public speaking, both giving talks and taking part in panels or Q&As.
 
 Previously:
+* Better Resumes *London Heads of People*
 * Employment and Inclusion *Founders & Coders*
+* Make Possible Bitesize with Abadesi Osunsade *Make Possible* [(video)](https://www.youtube.com/watch?v=4UzE84CBlGc)
 * Demystifying the Hiring Process *Culturevist*
 * The Importance of Candidate Experience *Energon Events*
 * I'm a Manager, now what? *Circle Community* 
