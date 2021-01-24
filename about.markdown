@@ -7,13 +7,14 @@ description: some info about maria, who writes this blog
 
 ---
 
-I've built a career working in high-growth tech startups, series A to C (ish) and headcounts 30-300 (ish) - from [GoCardless](https://www.codefirstgirls.org.uk/blog/the-long-awaited-hyc-gocardless-blogpost) to [Monzo](https://monzo.com/blog/2017/03/09/diversity-and-inclusion), then [Snyk](https://snyk.io/blog/my-first-week-at-snyk-was-at-our-all-hands-conference/) and now [Permutive](https://permutive.com/careers/). My focus is on developing human-first structures & processes to make work an enjoyable place to be, and as fulfilling as possible - and growing teams quickly, healthily and deliberately!
+I've built a career working in high-growth tech startups, developing people processes & frameworks and building culture. My favourite part is the journey from Series A to C and headcounts 30-250. I was the first people leader at [GoCardless](https://www.codefirstgirls.org.uk/blog/the-long-awaited-hyc-gocardless-blogpost), [Monzo](https://monzo.com/blog/2017/03/09/diversity-and-inclusion), [Snyk](https://snyk.io/blog/my-first-week-at-snyk-was-at-our-all-hands-conference/) and [Permutive](https://permutive.com/careers/). My focus is on developing human-first structures that make work an enjoyable place to be, and as fulfilling as possible - and growing teams quickly, healthily and deliberately!
 
-I have a theory that most people quit their jobs either _because_ of HR failings, or for reasons that modern people practices could mitigate (e.g. having an ill-equipped or unqualified manager). My personal mission is to take a human-centric approach to people practices, and build cultures where people can do their best work and grow.
+I have a theory that most people quit their jobs either _because_ of HR failings, or for reasons that modern people practices could mitigate (e.g. having an ill-equipped or unqualified manager). The role of a people team is to centre people's experience of work, and design each of these experiences to be positive and useful for both the business and the individual. Through this, we can build successful businesses and develop highly talented, engaged individuals.
+
+My big passions are culture, diversity & inclusion, hiring well, feedback, and finding fun.
 
 I started writing in summer 2019 when I deliberately gave myself a month out between jobs, and then found myself looking for productive and fun things to do with that time. Which is why this blog exists, and why it's built with [jekyll](https://jekyllrb.com/) despite my better judgement.
 
-My big passions are culture, diversity & inclusion, hiring well, feedback, and finding fun.
 
 # talks & panels
 
