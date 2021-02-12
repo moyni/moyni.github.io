@@ -21,10 +21,11 @@ I started writing in summer 2019 when I deliberately gave myself a month out bet
 I really enjoy public speaking, both giving talks and taking part in panels or Q&As.
 
 Previously:
+* Getting More Useful Feedback *Culturevist* [(video)](https://community.culturevist.com/c/member-event-videos/getting-more-useful-feedback-maria-campbell)
 * Better Resumes *London Heads of People*
 * Employment and Inclusion *Founders & Coders*
 * Make Possible Bitesize with Abadesi Osunsade *Make Possible* [(video)](https://www.youtube.com/watch?v=4UzE84CBlGc)
-* Demystifying the Hiring Process *Culturevist*
+* Demystifying the Hiring Process *Culturevist* [(video)](https://youtu.be/USmr6KA4XwU)
 * The Importance of Candidate Experience *Energon Events*
 * I'm a Manager, now what? *Circle Community* 
 [(video)](https://www.circlecommunity.co/post/im-a-manager-now-what)
