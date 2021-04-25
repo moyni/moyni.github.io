@@ -1,0 +1,139 @@
+---
+layout: post
+title:  "enjoyable meetings / gathering deliberately"
+short-tag: "meetings"
+date:   2021-01-09 18:30:00 +0000
+tag: 
+image: meetings.jpg
+permalink: /meetings
+related-1: "teambuilding"
+related-2: "chatter"
+description: "A conceptual and tactical rundown of why meetings suck and how to improve them."
+<!-- fourteen words to hook folks into my meetings theory -->
+---
+
+Meetings have a really bad reputation. But having bad meetings, and maligning _all_ meetings, is totally unnecessary. I want us to restore meetings to a thing of value: deliberate, purposeful, efficient, enjoyable experiences that help us to achieve our goals.
+
+The pandemic has prompted a lot of reflection on gathering - both at work (how do we switch from physical gathering to internet-facilitated gathering?) and in life (how do we spend deliberate time with our friends and families and communities in these circumstances?). Yet I think a lot of us have just moved these things to being screen-mediated without considering gathering more conceptually.
+
+Confession time. I really enjoy meetings. I find them super useful, and I do some of my best work in meetings. I love gathering with friends, meeting new people, and find connecting with humans super energising. I love thinking about meetings, hosting them, planning them, making them work well.
+
+But, as an adult who’s had a job, I absolutely get where the meetings-are-bad stance comes from. I’ve yawned through dry presentations, zoned out in meetings that lasted way too long, felt lost and alienated in meetings I couldn’t contribute to, agonised over how to politely decline meetings I wasn’t interested in, and sadly I have endured _many_ meetings that should have been an email or a thought that remained unshared.
+
+I’ve been running internal team sentiment surveys for many years across a handful of companies, and _so often_ the first one I run comes back with a wave of negatives around how there’s too many meetings and not enough time for “real work”. When people start their first leadership roles, the complaint I hear most is the same - all meetings, no work. But like - why are we having work meetings if they aren’t helping us get work done? Is the problem that meetings are _inherently_ not valuable, that we use them for the wrong things, that we’re running them badly, or something else?
+
+By digging in to what meetings are, what they can be for, and what roles they play, I really think we can rebuild them as a positive experience. We can be intentional about how we meet, and we can restore meetings to their rightful place as a valuable tool in our kit, a place where we gather to achieve something, rather than an incessant annoying timesuck.
+
+# What is a meeting?
+
+At its most fundamental, a meeting is a planned, purposeful, real-time interaction; a coming-together of humans with shared goals.
+
+We use meetings to exchange information; to generate ideas; to solve problems; and to make decisions. We don’t always explicitly consider which of these activities we want to achieve by meeting - and I think this is where a lot of our frustration comes from. We’re not clear about our aims and our purpose, so we’re left unsatisfied or unnerved.
+
+We can really level up the meetings we hold by setting a purpose and designing around that - and considering other tools rather than meeting by default. I’ll come back to this later, but first I want to consider the other aspect of meetings: they are a sensemaking tool.
+
+Being invited to a meeting validates our status and relevance. As social animals, humans have met to make social, participative decisions for a couple of hundred thousand years. An invitation deems us relevant, and suitably important to contribute to a decision that affects our group. It feels good to be included.
+
+The act of gathering with others reinforces our shared identity as members of a community. An internal work meeting brings us together as community of coworkers aiming to achieve the same goals. A professional networking event reinforces our shared identity as a community of professionals with related expertise and experience. Family gatherings, social occasions, community meetings - these all play the same kind of role in supplying us with cultural validation and community bonding. It gives us a strong sense of belonging, like we’re the right person in the right place.
+
+Meetings are a ritual that helps anchor us to time and to put progress in perspective. A series of lectures; a weekly church service or prayer meeting; the matches we play in our five-a-side league; pub quiz Thursday; or our weekly team meeting or quarterly goal-setting session. The recurring cadence, the same core group of people, the stable and familiar setting in which we draw our attention to what’s happening now, what has happened before, and how we have changed. Meetings are a stabilising, dedicated ritual space for us to contextualise and reflect on change, to see how we’ve grown. They give comfort through routine and familiarity.
+
+It is the meeting _as a sensemaking tool_ that I think is indispensable, hard to achieve through other means, and profoundly positive. And this is what makes me so eager to upgrade the way we think about meetings so that they’re deliberate, efficient and enjoyable.
+
+# Meeting deliberately
+
+There are four ish categories of meeting purposes: information exchange, idea generation, problem-solving, and decision-making. When we set an agenda for a meeting, it is usually a list of topics to cover. We skip the step of determining what we want to achieve - update, debate, decide.
+
+If we don’t think about what we want to achieve, well, everything looks like a nail that we should bash with our meeting-hammer. And this leads us to seriously misaligned expectations, and to more bad meeting experiences.
+
+We have so many communication tools in our kit. We have busy lives, we’re not necessarily colocated, we almost definitely don’t have the same schedule, nor do we all absorb and reflect on information in the same way.
+
+Some things are just not good reasons for a meeting. Information exchange is mostly in this category. If we’re trading facts, we can do this quietly in our own time by writing them down or making a diagram or recording a little video. There are exceptions: learning about something new, gathering context and understanding subtleties, getting information from _that_ person who never reads the emails you send but will always show up for a calendar invite.
+
+Focus. Choose one flavour for your meeting - idea generation, or decision making - and be purposeful about it. Switching topics _and_ switching modes is hard on our brains; let’s keep it simple so we can keep up.
+
+Deciding or discovering what the purpose is of the meeting before we show up can give us clarity, and remove that dissatisfaction we get from unmet expectations.
+
+# Meeting efficiently
+
+The greatest gift you can give your coworkers is investing some of your time and brainspace into preparing. Spend time thinking about how _you_ can reduce the synchronous time spent in them to enable your participants to have more control over their time and their lives. If it’s your meeting, you want to achieve something by gathering these people together. You want them to show up to the next one. The worst part of meetings is faffing about wrangling schedules or venues. It’s much nicer for everyone if you at least know what you want and can take people on that journey. If that means you spend an hour prepping so they can spend 5mins reading, then please do it. If you can ask people to contribute some thoughts in advance, don’t be afraid to set out what you need and what it’ll save them in meeting-time.
+
+Don’t be afraid to cancel a meeting if you own it. Revisit, and iterate. If you’ve been running a recurring meeting, do you still need it? Take time to reflect on how you run meetings, whether they’re still useful, whether you actually need everyone who’s on the recurring invite (hint: you almost certainly don’t).
+
+There’s something cultural here, too. It takes a level of boldness and comfort to opt out of a meeting without feeling like you’re offending someone, or to disinvite someone. Or to make any kind of change, really. But for me, this is the wondrous thing about prepping. If you can share prep materials in advance, it’s much easier to enable people to opt-out, to provide asynchronous input. The fear of missing out is lower. They know what you’re covering and what you want to achieve. And you’re helping them not spend time in a meeting that they don’t really care much about.
+
+But running an efficient meeting isn’t just about preparation - it’s about reading expressions and understanding when to dwell or when to move on. It’s like conducting an orchestra. You need to read cues, to ask questions, to leave silences where thoughts are brewing, and to assertively move forward when something is decided _enough_. This is much easier when the purpose, flavour and topic of the meeting are explicit and understood by everyone who is meeting with you.
+
+I continually recommend [Meeting Design](https://www.goodreads.com/book/show/36687954-meeting-design), by Kevin Hoffman, for tactical tips on how to orchestrate good meetings. If I lent you my heavily annotated copy, please [let me know](mailto:hello@lowercaseopinions.com) - I’ll replace it with a fresh one!
+
+# Meeting enjoyably
+
+So we’ve decided what flavour of meeting we’re having, and what topics we’re covering. We give people some prep materials and ask them to show up. But usually we do nothing to foster togetherness, to get everyone on the same emotional page, and to have a shared journey through the meeting.
+
+I want to dig a little deeper into this shared journey: the narrative is the ‘journey’, and the vibes are the ‘shared’ part. We think about tone or vibes when organising a social event, but less so when we’re orchestrating a work gathering. How do we want people to _feel_ about our meeting? How do we want them to feel during it? How about afterwards?
+
+## Narrative
+
+By narrative, I mean the journey we go on through the meeting, and how the meeting itself fits in the broader narrative of our work. As humans, we are storytellers. And as meeting organisers, we can lean on this to make them more enjoyable. Tweaking our structure to give each meeting a sense of narrative progression is not super difficult. We can think  about the cadence of what we cover; marking a beginning, middle and end; contextualising the meeting in the broader narrative of our work, our mission, our goals.
+
+I appreciate that this probably bothers me more than most: I studied literature and I think about structure a lot. I’ve written essays about beginnings, about closure, about foreshadowing closure, about the peculiarities of the way opening and closure work at both levels in the short story cycle. I don’t like watching football because of its lack of narrative progression, whereas I enjoy rugby and motorsport because they have structure and clarity and foreshadowing and a deliberate motion. But while I think about more than most, I still see the tangible change in how others _feel_ about a meeting or offsite when attention is paid to structuring the narrative and marking transitions.
+
+But think again about social gatherings: compare a dinner party with a trip to the pub; a wedding with a festival. The added structure and narrative of the former of each pair makes many people more comfortable and at ease. The phases of the event tighten them into something bounded. It’s clearer what to expect, because the narrative is embedded in the form; it’s purposeful.
+
+So often with meetings our entire narrative is a grab bag of topics, and our phases are marked only by the passage of the allocated time.
+
+The part of narrative-building that I see least often is the ceremonial marking of the beginning, middle and end. Many meetings start with [chatter](https://lowercaseopinions.com/chatter), then amble in to discussing the designated content, and then some time after we ask “any other business?” we all sort of ...leave.
+
+We should mark the beginning of our meetings by explicitly stating our purpose. Why are we here? Why is this meeting happening? What are we starting, or ending, or reviewing? Is this a kick-off or a retro or something in the middle of a project?
+
+Work is a continuous process, so we need to situate the thing we’re doing _now_ in that broader narrative. If we’re generating ideas, we want to create a self-contained idea generation phase and contextualise that in the broader scope of the work. Today we generate ideas; next we investigate further and make decisions; later we coordinate.
+
+In longer meetings, I like to include breaks at tactically important moments. Signalling that we’re moving from one topic or phase to another. These are helpful from a narrative perspective, but also in providing a space for people to reflect. After the break, we can recap what we covered for any final thoughts to signal that that section is now closed.
+
+Flagging “next steps” helps signal the start of the end. It marks both what the end is, and helps everyone present assess when we’re nearing the end, so that we’re prepared for closure. We give our coworkers that sense of fulfilment from having set out with a purpose and achieved it.
+
+The post-meeting recap - notes or actions - is also hugely helpful for confirming that closure and setting the scene for the next phase of the broader work or project narrative.
+
+## Vibes
+
+Yup, I am talking about creating vibes at work. We’re not robots. We have feelings, and we need to make space for these when we gather. We can set the tone of our meetings so that we’re all in an appropriate emotional space and better placed to achieve what we want to. This is one of my favourite parts about hosting and facilitating meetings, because so few people tackle this, so it has a really powerful impact.
+
+I said we _should_ start our meetings by stating our purpose. But humans are flaky and time is difficult. We arrive in trickles. So in reality we start with a kind of warm-up, and managing this is a huge part of setting the tone and vibe of the meeting we want to have.
+
+Do we need participation from everyone? Welcome people as they join, and ask questions so everyone speaks early.
+
+We can set the scene and anchor our tone in how we welcome people and what we talk about in that pre-meeting chatter. For a positive meeting, we should share our own positivity early (even something banal like “it’s so sunny here today, I love it” or “I just had a really delicious lunch”). 
+
+If we’re planning for the future, we should ask people about their future plans or what they’re excited about, even a simple “do you have weekend plans?”. If we’re reflecting on the past, we can ask how people’s days have been so far. If we’re generating ideas, let’s ask what people are thinking about at the moment, or what they’ve read recently. If we’re discussing progress, let’s ask what people are working on at the moment.
+
+In longer meetings, like off-sites, where we’re asking people to focus for a prolonged period of time, I like to run a structured group check-in at the start. By surfacing what distractions exist, what is on everyone’s mind, we can be deliberate about setting these aside to focus on the matter at hand.
+
+Where a meeting is likely to involve conflict - like any decision-making meeting - the vibes we sow at the start help us [manage conflict well](https://lowercaseopinions.com/conflict). Conflict doesn’t need to be hostile, and bringing conflict to the surface is really important to enable us to truly _make_ decisions. By seeding positive, collaborative vibes, we can encourage useful conflict.
+
+Likewise, seeding vulnerability and warmth gives us much better results in idea-generation meetings. We’re more likely to be open and share bold ideas if the vibe of the meeting is warm and inclusive - the fear and anxiety of saying something unrealistic can be assuaged by the right kind of vibe. And so we can generate better ideas.
+
+It’s important to weave vibes into our closure, too. The end of the meeting is never the end of the work. Someone always has follow-up, communication, coordination to do afterwards. People have generously given us their time and attention for a period of time - whether thirty minutes or two days - and we need to honour that.
+
+The vibe depends a lot on the topic. It’s wildly inappropriate to start a meeting about redundancies or other bad news with a joyful vibe - solemnity is more appropriate. A retro after a tough quarter littered with missed goals likely needs a safe, open, learning vibe. 
+
+By being deliberate about the vibe we create in our meetings, we can be more purposeful and have a more enjoyable experience. When the tone matches the topic, we’re reassured and better able to focus on achieving what we need.
+
+# Tactics
+
+Next time you organise a meeting, I want you to think of it as a planned, purposeful gathering of people with shared goals. Approach the meeting with a goal of creating a meaningful experience for your participants.
+
+Before you send an invite, ask yourself:
+* what do I want to achieve?
+* what flavour of meeting is this: information exchange, idea generation, problem-solving, or decision-making?
+* what topics do we want to address?
+* what preparation can I, or others, do in advance to make this more efficient?
+* is a real-time meeting the best tool to use to achieve this?
+* who do I actually _need_ to gather together to achieve this?
+* what shared identity do these participants have?
+* how can I connect and include everyone?
+* how does this meeting fit into the broader narrative of participants’ work lives?
+* what is the narrative of my meeting?
+* what vibe do I want to create?
+* what does finished look like, and how should that shape the ending of the session?
+
+Really thinking about each of these points will help us organise meetings that are deliberate, efficient, purposeful, and enjoyable. We can create our own world where meetings _are_ “real work” rather than a tedious distraction from it.
