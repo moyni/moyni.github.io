@@ -9,7 +9,6 @@ permalink: /meetings
 related-1: "teambuilding"
 related-2: "chatter"
 description: "A conceptual and tactical rundown of why meetings suck and how to improve them."
-<!-- fourteen words to hook folks into my meetings theory -->
 ---
 
 Meetings have a really bad reputation. But having bad meetings, and maligning _all_ meetings, is totally unnecessary. I want us to restore meetings to a thing of value: deliberate, purposeful, efficient, enjoyable experiences that help us to achieve our goals.
