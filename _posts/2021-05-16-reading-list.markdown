@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-goodreads
 title:  "reading list / books to become a better People leader"
 short-tag: "reading-list"
 date:   2021-05-13 16:12:00 +0100
@@ -48,6 +48,4 @@ In our roles, there are so many ways that we can accidentally reinforce the disc
 ## Management and psychology
 We spend all day every day thinking about humans. It’s invaluable to spend time reading about how people work, how brains work, how we think and behave and react, what we need. This helps with everything from communication to influencing to understanding and supporting the people around us.
 
-{{goodreads}}
-
-Think I’ve missed something crucial? I’d love to hear what! Book recommendations are my _favourite_ thing.
+Think I’ve missed something crucial? I’d love to hear what! Book recommendations are my _favourite_ thing. So here are mine:

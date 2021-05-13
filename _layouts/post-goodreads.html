@@ -1,0 +1,100 @@
+---
+layout: main
+---
+<article class="article-page">
+  <div class="page-content">
+    {% if page.image %}
+    <div class="page-cover-image">
+      <figure>
+        <img class="page-image" src={{ "/assets/img/" | prepend: site.baseurl | append : page.image}} alt="{{page.title}}">
+        {% if page.fig-caption %}
+          <figcaption>{{page.fig-caption}}</figcaption>
+        {% endif %}
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    {% else %}
+    {% endif %}
+    <div class="wrap-content">
+      <header class="header-page">
+        <h1 class="page-title">{{page.title}}</h1>
+        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+      </header>
+      {{content | markdownify}}
+
+            <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 98px;
+          height: 160px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div>
+      <div id="gr_grid_widget_1620912612">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+          <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Range: Why Generalists Triumph in a Specialized World" rel="nofollow" href="https://www.goodreads.com/book/show/41795733-range"><img alt="Range: Why Generalists Triumph in a Specialized World" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550048292l/41795733._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Making of a Manager: What to Do When Everyone Looks to You" rel="nofollow" href="https://www.goodreads.com/book/show/38821039-the-making-of-a-manager"><img alt="The Making of a Manager: What to Do When Everyone Looks to You" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548809382l/38821039._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Can't Even: How Millennials Became the Burnout Generation" rel="nofollow" href="https://www.goodreads.com/book/show/48930297-can-t-even"><img alt="Can't Even: How Millennials Became the Burnout Generation" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583442527l/48930297._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Lean Out" rel="nofollow" href="https://www.goodreads.com/book/show/26025700-lean-out"><img alt="Lean Out" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453061713l/26025700._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Conquest of Happiness" rel="nofollow" href="https://www.goodreads.com/book/show/51783.The_Conquest_of_Happiness"><img alt="The Conquest of Happiness" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356451345l/51783._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Good Services: How to Design Services that Work" rel="nofollow" href="https://www.goodreads.com/book/show/53518409-good-services"><img alt="Good Services: How to Design Services that Work" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590618607l/53518409._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="An Everyone Culture: Becoming a Deliberately Developmental Organization" rel="nofollow" href="https://www.goodreads.com/book/show/25159550-an-everyone-culture"><img alt="An Everyone Culture: Becoming a Deliberately Developmental Organization" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429098087l/25159550._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="What White People Can Do Next: From Allyship to Coalition" rel="nofollow" href="https://www.goodreads.com/book/show/55921521-what-white-people-can-do-next"><img alt="What White People Can Do Next: From Allyship to Coalition" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612737752l/55921521._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Memo: What Women of Color Need to Know to Secure a Seat at the Table" rel="nofollow" href="https://www.goodreads.com/book/show/43251322-the-memo"><img alt="The Memo: What Women of Color Need to Know to Secure a Seat at the Table" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546498209l/43251322._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Making Work Visible: Exposing Time Theft to Optimize Work & flow" rel="nofollow" href="https://www.goodreads.com/book/show/36458712-making-work-visible"><img alt="Making Work Visible: Exposing Time Theft to Optimize Work & flow" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508699316l/36458712._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Discipline and Punish: The Birth of the Prison" rel="nofollow" href="https://www.goodreads.com/book/show/80369.Discipline_and_Punish"><img alt="Discipline and Punish: The Birth of the Prison" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400737037l/80369._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Natives: Race and Class in the Ruins of Empire" rel="nofollow" href="https://www.goodreads.com/book/show/36352480-natives"><img alt="Natives: Race and Class in the Ruins of Empire" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577923588l/36352480._SY160_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" rel="nofollow" href="https://www.goodreads.com/book/show/24612233-the-master-algorithm"><img alt="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435790827l/24612233._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Thinking in Systems: A Primer" rel="nofollow" href="https://www.goodreads.com/book/show/3828902-thinking-in-systems"><img alt="Thinking in Systems: A Primer" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859l/3828902._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Design of Everyday Things" rel="nofollow" href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things"><img alt="The Design of Everyday Things" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442460745l/840._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Profit and Prejudice: The Luddites of the Fourth Industrial Revolution" rel="nofollow" href="https://www.goodreads.com/book/show/54709103-profit-and-prejudice"><img alt="Profit and Prejudice: The Luddites of the Fourth Industrial Revolution" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601980233l/54709103._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Art of Gathering: How We Meet and Why It Matters" rel="nofollow" href="https://www.goodreads.com/book/show/37424706-the-art-of-gathering"><img alt="The Art of Gathering: How We Meet and Why It Matters" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513028173l/37424706._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Resilient Management" rel="nofollow" href="https://www.goodreads.com/book/show/45767533-resilient-management"><img alt="Resilient Management" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557845913l/45767533._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Designing for Emotion" rel="nofollow" href="https://www.goodreads.com/book/show/12910715-designing-for-emotion"><img alt="Designing for Emotion" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318982331l/12910715._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="To Sell is Human: The Surprising Truth About Moving Others" rel="nofollow" href="https://www.goodreads.com/book/show/13593553-to-sell-is-human"><img alt="To Sell is Human: The Surprising Truth About Moving Others" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355138750l/13593553._SX98_.jpg" /></a></div>
+  </div>
+</div>
+      <br style="clear: both"/><br/><a href="https://www.goodreads.com/review/list/122841044?shelf=people-reading-list">See the full reading list here</a>
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/122841044.Reading%20list%20for%20People%20leaders?cover_size=medium&hide_link=true&hide_title=true&num_books=24&order=d&shelf=people-reading-list&sort=rating&widget_id=1620912612" type="text/javascript" charset="utf-8"></script>
+
+
+      
+      <div class="page-footer">
+        <div class="page-share">
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via=moynibell" title="Share with Twitter" rel="nofollow" target="_blank">Share with <i class= "fa fa-twitter"></i></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share with Facebook" rel="nofollow" target="_blank">Share with <i class= "fa fa-facebook"></i></a>
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}" title="Share with LinkedIn" rel="nofollow" target="_blank">Share with <i class= "fa fa-linkedin"></i></a>
+        </div>
+      </div>
+
+        <p style="font-weight: bold">Recommended posts:</p>
+          {% for post in site.posts %}
+            {% if post.short-tag == page.related-1 %}
+            <div class="column" style="float: left">
+              <p><a href="{{ post.url }}">{{ post.title }}</p>
+              <img class="preview-image" src={{ "/assets/img/" | prepend: site.baseurl | append : post.image}} alt="{{post.title}}"></a>
+            <p>{{ post.description }}</p>
+          </div>
+          {% endif %}
+          {% if post.short-tag == page.related-2 %}
+            <div class="column" style="float: left">
+              <p><a href="{{ post.url }}">{{ post.title }}</p>
+              <img class="preview-image" src={{ "/assets/img/" | prepend: site.baseurl | append : post.image}} alt="{{post.title}}"></a>
+            <p>{{ post.description }}</p>
+            </div>
+          {% endif %}
+
+        {% endfor %}
+        </div>
+      </div>
+    </div> <!-- End Wrap Content -->
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->
