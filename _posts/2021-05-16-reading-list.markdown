@@ -2,7 +2,7 @@
 layout: post-goodreads
 title:  "reading list / self-development as a People leader"
 short-tag: "reading-list"
-date:   2021-05-13 16:12:00 +0100
+date:   2021-05-13 15:38:00 +0100
 tag: 
 image: reading-list.jpg
 permalink: /reading-list
