@@ -25,10 +25,10 @@ Joining early-stage companies as their first people person, I typically spend my
 And this makes total sense. Some of them will never have interacted with anyone that has the word People in their job title before. Some will be curious about the distinction between People and HR. Others will wonder what HR crises I’ve come in to solve, and whether they should be worried that I’m going to introduce a bunch of rules and restrictions and bureaucracy that makes their working lives harder.
 
 Every time I’m asked this, I lean on an analogy that feels meaningful to my audience:
-we create _infrastructure_: systems, tools, processes that individuals, managers and leaders can use to do their jobs in a scalable, consistent way
-we’re like _design and product_: we shape and develop the employee journey, the experience of working in this company
-we’re _risk management_: we proactively mitigate risks, focussed on the core reasons why people might leave us, choose not to join us, or have a negative impact on the business
-...and so on.
+* we create _infrastructure_: systems, tools, processes that individuals, managers and leaders can use to do their jobs in a scalable, consistent way
+* we’re like _design and product_: we shape and develop the employee journey, the experience of working in this company
+* we’re _risk management_: we proactively mitigate risks, focussed on the core reasons why people might leave us, choose not to join us, or have a negative impact on the business
+* ...and so on.
 
 Every single one of these analogies holds true. We need to understand how each discipline within the business works, so that we effectively support their needs, and we also need to understand how each discipline works so that we can borrow the best parts of their conceptual tools and techniques.
 
