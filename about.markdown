@@ -21,6 +21,7 @@ I started writing in summer 2019 when I deliberately gave myself a month out bet
 I really enjoy public speaking, both giving talks and taking part in panels or Q&As. Please [get in touch](mailto:hello@lowercaseopinions.com) if you'd like me to speak at your event.
 
 Previously:
+* Structure the chaos *Leading Between the Lines podcast* [(listen)](https://open.spotify.com/episode/4cD10BkIV2it1zsqvdkSTV)
 * How to build a self-developing team *The Customer Conference* [(video)](https://vimeo.com/565108949/e53f462ca1)
 * Using culture fit as a force for good *Point Nine Capital* [(video)](https://www.youtube.com/watch?v=1bDYnSaW2SM)
 * Getting more useful feedback *Culturevist* [(video)](https://community.culturevist.com/c/member-event-videos/getting-more-useful-feedback-maria-campbell)
