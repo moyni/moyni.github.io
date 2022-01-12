@@ -11,20 +11,23 @@ I've built a career working in high-growth tech startups, developing people proc
 
 I have a theory that most people quit their jobs either _because_ of HR failings, or for reasons that modern people practices could mitigate (e.g. having an ill-equipped or unqualified manager). The role of a people team is to centre people's experience of work, and design each of these experiences to be positive and useful for both the business and the individual. Through this, we can build successful businesses and develop highly talented, engaged individuals.
 
-My big passions are culture, diversity & inclusion, hiring well, feedback, and finding fun.
+My big passions are culture, inclusive leadership, hiring well, feedback, and finding fun.
 
 I started writing in summer 2019 when I deliberately gave myself a month out between jobs, and then found myself looking for productive and fun things to do with that time. Which is why this blog exists, and why it's built with [jekyll](https://jekyllrb.com/) despite my better judgement.
 
 
-# talks, panels & podcasts
+# speaking
 
-I really enjoy public speaking, both giving talks and taking part in panels or Q&As. Please [get in touch](mailto:hello@lowercaseopinions.com) if you'd like me to speak at your event.
+I really enjoy giving talks and taking part in panels or Q&As. Please [get in touch](mailto:hello@lowercaseopinions.com) if you'd like me to speak at your event.
 
-Previously:
+Featured:
+* Caring for your brain like the rest of your body *Mental Health @ Work podcast* [(listen)](https://www.oliva.health/mental-health-at-work-podcast/maria-campbell)
 * Structure the chaos *Leading Between the Lines podcast* [(listen)](https://open.spotify.com/episode/4cD10BkIV2it1zsqvdkSTV)
 * How to build a self-developing team *The Customer Conference* [(video)](https://vimeo.com/565108949/e53f462ca1)
 * Using culture fit as a force for good *Point Nine Capital* [(video)](https://www.youtube.com/watch?v=1bDYnSaW2SM)
 * Getting more useful feedback *Culturevist* [(video)](https://community.culturevist.com/c/member-event-videos/getting-more-useful-feedback-maria-campbell)
+
+Others:
 * Better resumes *London Heads of People*
 * Employment and inclusion *Founders & Coders*
 * Make Possible bitesize with Abadesi Osunsade *Make Possible* [(video)](https://www.youtube.com/watch?v=4UzE84CBlGc)
