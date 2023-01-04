@@ -7,14 +7,11 @@ description: some info about maria, who writes this blog
 
 ---
 
-I've built a career working in high-growth tech startups, developing people processes & frameworks and building culture. I was recognised as one of the [top 25 women leaders in fintech in 2022](https://blog.griffin.sh/2022/02/22/top-women-leaders-fintech-maria-campbell/). I was the first people leader at [GoCardless](https://gocardless.com), [Monzo](https://monzo.com/blog/2017/03/09/diversity-and-inclusion), [Snyk](https://snyk.io/) and [Permutive](https://permutive.com/). 
+I've built a career scaling high-growth tech startups, with a particular focus on processes, frameworks and culture. I was recognised as one of the [top 25 women leaders in fintech in 2022](https://blog.griffin.sh/2022/02/22/top-women-leaders-fintech-maria-campbell/). I was the first people leader at [GoCardless](https://gocardless.com), [Monzo](https://monzo.com/blog/2017/03/09/diversity-and-inclusion), [Snyk](https://snyk.io/) and [Permutive](https://permutive.com/). 
 
-I'm currently VP People at [Griffin](http://griffin.sh/jobs). You can read more about my journey [here](https://suzansfieldnotes.substack.com/p/leading-a-fintech-startup-pre-launch)! My focus is on developing human-first structures that make work an enjoyable place to be, and as fulfilling as possible - and growing teams quickly, healthily and deliberately!
+I'm currently Chief Operating Officer at [Griffin](http://griffin.sh/jobs). You can read more about my journey [here](https://suzansfieldnotes.substack.com/p/leading-a-fintech-startup-pre-launch)! My focus is on creating the right systems and processes to ensure companies deliver the most value, whether that's to customers or employees.
 
-I have a theory that most people quit their jobs either _because_ of HR failings, or for reasons that modern people practices could mitigate (e.g. having an ill-equipped or unqualified manager). The role of a people team is to centre people's experience of work, and design each of these experiences to be positive and useful for both the business and the individual. Through this, we can build successful businesses and develop highly talented, engaged individuals.
-
-My big passions are culture, inclusive leadership, hiring well, feedback, and finding fun.
-
+My big passions are culture, inclusive leadership, feedback, and finding fun.
 
 # speaking
 
@@ -28,6 +25,8 @@ Featured:
 * Getting more useful feedback *Culturevist* [(video)](https://community.culturevist.com/c/member-event-videos/getting-more-useful-feedback-maria-campbell)
 
 Others:
+* How do you identify and mitigate risks as you scale your operations without becoming too risk-averse? *Operations Nation cONference*
+* Building a people and culture function at a growing startup *Seedcamp*
 * Better resumes *London Heads of People*
 * Employment and inclusion *Founders & Coders*
 * Make Possible bitesize with Abadesi Osunsade *Make Possible* [(video)](https://www.youtube.com/watch?v=4UzE84CBlGc)
