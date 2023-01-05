@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "you don't need a career plan"
-short-tag: "career-plan"
+short-tag: "not a career plan"
 date:   2023-01-05 13:12:00 +0000
 tag: 
 image: career-plan.jpg
