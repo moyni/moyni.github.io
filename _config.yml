@@ -1,5 +1,5 @@
 title: lower case opinions
-description: some thoughts on people, startups, culture & hiring
+description: some thoughts on startups, scaling & culture
 permalink: /:title
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://lowercaseopinions.com # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ site-twitter: moynibell #if your site has a twitter account, enter it here
 # Author Settings
 author: maria campbell # add your name
 author-img: about.jpg # add your photo
-about-author: people leader in high growth tech startups
+about-author: senior leader in high growth tech startups
 social-twitter: moynibell # add your Twitter handle
 social-linkedin: mm-campbell # add your Linkedin handle
 social-email: hello@lowercaseopinions.com # add your Email address
@@ -26,7 +26,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 20
+paginate: 12
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
