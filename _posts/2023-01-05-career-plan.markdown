@@ -2,7 +2,7 @@
 layout: post
 title:  "you don't need a career plan"
 short-tag: "career-plan"
-date:   2023-01-05 17:12:00 +0000
+date:   2023-01-05 13:12:00 +0000
 tag: 
 image: career-plan.jpg
 permalink: /career-plan
@@ -25,8 +25,8 @@ Even now, as a senior executive who’s built exec teams, scaled companies 10x, 
 When I joined my first startup, I was looking for an intellectually stimulating part-time job that would pay me enough to cover rent and childcare. But I believe that every job is both what you find, and what you create while you’re there.
 
 A career is formed of a string of jobs. The grand Career Plan school of thought encourages us to think several steps ahead on the ladder to set our destination, our “dream job”; but there are better ways of tackling this. The two I use are:
-optimise locally
-have an investment thesis
+* optimise locally
+* have an investment thesis
 
 # 1. Local optimisation.
 
