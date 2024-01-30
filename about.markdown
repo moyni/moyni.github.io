@@ -7,41 +7,18 @@ description: some info about maria, who writes this blog
 
 ---
 
-I've built a career scaling high-growth tech startups, with a particular focus on processes, frameworks and culture. I was recognised as one of the [top 25 women leaders in fintech in 2022](https://blog.griffin.sh/2022/02/22/top-women-leaders-fintech-maria-campbell/). I was the first people leader at [GoCardless](https://gocardless.com), [Monzo](https://monzo.com/blog/2017/03/09/diversity-and-inclusion), [Snyk](https://snyk.io/) and [Permutive](https://permutive.com/). 
+Award-winning leader building high-impact mission-driven companies, from Series A to unicorn.
 
-I'm currently Chief Operating Officer at [Griffin](http://griffin.sh/jobs). You can read more about my journey [here](https://suzansfieldnotes.substack.com/p/leading-a-fintech-startup-pre-launch)! My focus is on creating the right systems and processes to ensure companies deliver the most value, whether that's to customers or employees.
+I've built a career scaling high growth tech and fintech companies in the UK, first as a People & Culture leader and now as Chief Operating Officer. I played a key role as an early employee at tech unicorns such as GoCardless, Monzo, and Snyk. My career sweet spot is helping fintechs establish the right cultural and operational environment to scale successfully and deliver meaningful value to both customers and employees.
 
-My big passions are culture, inclusive leadership, feedback, and finding fun.
+Recognised as one of the [Top 25 Women Leaders in Financial Technology in Europe](https://thefinancialtechnologyreport.com/the-top-25-women-leaders-in-financial-technology-of-europe-for-2022/), Fintech Magazine’s [Top 100 Women](https://fintechmagazine.com/magazine/fintech-top-100-women-2023), and shortlisted for AltFi’s [Woman of the Year](https://www.altfi.com/article/altfi-awards-2023-the-shortlist-revealed-and-people-s-choice-vote-begins) 2023.
 
-# speaking
+Featured in press: [Fintech Magazine](https://fintechmagazine.com/financial-services-finserv/bringing-change-to-fintech-through-diversity-innovation) on diversity and innovation in fintech; [Tech Funding News](https://techfundingnews.com/women-in-payments-europe-2023-celebrating-innovation-through-women/) on payments innovation; [Raconteur](https://www.raconteur.net/future-of-work/remote-office-equity) on equity in hybrid workplaces; [The Fintech Times](https://thefintechtimes.com/international-womens-day-how-fintech-can-breakthebias-and-improve-diversity/) on inclusion.
 
-I really enjoy giving talks and taking part in panels or Q&As. Please [get in touch](mailto:hello@lowercaseopinions.com) if you'd like me to speak at your event.
+Coauthored "Can you have your cake and eat it? Building a high performance business model that coexists with a culture of integrity" in [Transforming Culture in Financial Services](https://www.fca.org.uk/publication/discussion/dp18-02.pdf), FCA Discussion Paper.
 
-Featured:
-* Caring for your brain like the rest of your body *Mental Health @ Work podcast* [(listen)](https://www.oliva.health/mental-health-at-work-podcast/maria-campbell)
-* Structure the chaos *Leading Between the Lines podcast* [(listen)](https://open.spotify.com/episode/4cD10BkIV2it1zsqvdkSTV)
-* How to build a self-developing team *The Customer Conference* [(video)](https://vimeo.com/565108949/e53f462ca1)
-* Using culture fit as a force for good *Point Nine Capital* [(video)](https://www.youtube.com/watch?v=1bDYnSaW2SM)
-* Getting more useful feedback *Culturevist* [(video)](https://community.culturevist.com/c/member-event-videos/getting-more-useful-feedback-maria-campbell)
+Women in Payments EMEA awards committee member 2023; Seedcamp expert network member; industry expert guest lecturer for fintech track of Executive MBA at Bayes Business School; industry judge for Imperial College Business School end of year project for MSc Innovation, Entrepreneurship & Management.
 
-Others:
-* How do you identify and mitigate risks as you scale your operations without becoming too risk-averse? *Operations Nation cONference*
-* Building a people and culture function at a growing startup *Seedcamp*
-* Better resumes *London Heads of People*
-* Employment and inclusion *Founders & Coders*
-* Make Possible bitesize with Abadesi Osunsade *Make Possible* [(video)](https://www.youtube.com/watch?v=4UzE84CBlGc)
-* Demystifying the hiring process *Culturevist* [(video)](https://youtu.be/USmr6KA4XwU)
-* The importance of candidate experience *Energon Events*
-* I'm a manager, now what? *Circle Community*  [(video)](https://www.circlecommunity.co/post/im-a-manager-now-what)
-* Culture-conscious hiring *People Geek breakfast*
-* Scaling hiring: how to 3x your headcount in a year and survive *ScaleUP Academy*
-* Brand Health Report *Hired* [(video)](https://www.youtube.com/watch?v=qJW9eS7NvHw)
-* Diversity & inclusion *Tech XLR8*
-* International Women's Day *SheCanCode*
-* Beyond the data: gender pay narratives and actions to promote diversity *Simmons & Simmons*
-* Women <3 tech meet up: Tech Innovation in Finance *InnovateHer*
-* What are you hiring for? *General Assembly / Premier Talks*
-* ThinkDifferent *London Tech Week* [(video)](https://www.youtube.com/watch?v=LOzuD90aQJo)
-* Hiring for happiness: how to hire diverse candidates while maintaining culture *Jobbio Higher London*
-* When should you join a startup? *Alternative Careers Festival*
-* Diversity & inclusion @ Monzo (Q&A) [(video)](https://www.periscope.tv/w/1kvJpndvegdKE)
+Regularly speak at industry events and conferences including The Customer Conference, Culturevist, Sifted Summit, Women in Payments Symposia, Operations Nation cONference, Future of Fintech, Next Gen Core Banking Summit. Please [get in touch](mailto:hello@lowercaseopinions.com) if you'd like me to speak at your event.
+
+My big passions are work culture, inclusive leadership, fintech, innovation, feedback, and finding fun.
