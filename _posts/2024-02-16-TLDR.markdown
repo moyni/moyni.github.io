@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "TLDR / crisp clear communication"
+short-tag: "TLDR"
+date:   2024-02-16 10:59:00 +0000
+tag: 
+image: tldr.jpg
+permalink: /TLDR
+related-1: "chatter"
+related-2: "meetings"
+description: "Get other people to hear what you need them to know."
+
+---
+
+When my phone rings and I don’t answer, which I often don’t, my voicemail greeting instructs you to text or email or call back later. This is because I’ve found that _most people are fundamentally bad_ at leaving voicemail messages.
+
+What makes a good voicemail?
+* I know who you are
+* I know why you’re calling
+* I know the important piece of information that you wanted to give me
+* I know who’s taking the next step
+
+We treat a voicemail like a conversation. Yet we don’t get any of the back and forth, none of the cues (verbal or tone or body language) that let us know how the other person is feeling, how much time they have, how interested they are, what else is going on for them right now, whether they’ve understood what we’ve tried to convey.
+
+The worst part of voicemail is that it’s not skimmable - but the points I made above apply to email, too, and many other kinds of interaction. Voicemail is just one magnified example of a bigger failure to communicate well.
+
+We often don’t take care to structure our communications optimally, and this is messed up! So many of us create and produce communications almost continually - from presentations and talks to documentation and policies to emails and slack messages.
+
+The payoff is clearest in one-to-many communications. There’s a clear investment case for me spending an additional 5 minutes rewriting an email, so that my 50 readers spend a minute less trying to understand the content. This is magnified again where there’s a request in the message - when you need the recipient to do something for you: how likely are your readers to do a thing if it’s unclear what the thing is? Back to voicemails - I’m creating a disproportionate about homework for myself if I listen to a five minute ramble, spend time deciphering it, then have to execute on what you’ve asked of me.
+
+And this brings us to the meme with (in my opinion) the highest business utility: [TLDR](https://knowyourmeme.com/memes/tldr-tldr).
+
+I’m also a fan of the late-millennial / early Gen Z equivalent, [“I ain’t reading all that”](https://knowyourmeme.com/memes/i-aint-reading-all-that).
+
+What I love about this meme is how it slices to the core of a perpetual problem: we often don’t communicate clearly.
+
+Communication is about transferring an idea, fact, sentiment, opinion into someone else’s mind, for some purpose. It’s an exchange between two (or more) people. One is transmitting, one is receiving. And one stands to gain more from its successful execution than the other.
+
+The onus, then, should sit with the person who benefits from the communciation to ensure that it’s executed successfully. In an interview, the interviewer has criteria they want to assess the candidate on. The interviewer can only successfully do this is they ask the right questions and draw out the information they need. It’s therefore their responsibility to put the candidate at ease, to prepare, and to ask good questions. And in a cold sales call, the salesperson has a goal they need to achieve. To achieve that, they need to ensure the buyer hears what they have to offer, and has enough information to be interested in proceeding with further contact or a sale.
+
+What is the core thing you need the person to do? That’s your TLDR.
+
+Next time you’re writing an email, or leaving a voicemail, distill what you need into the TLDR, and use that as your starting point. For bonus points: that’s your email subject line!
