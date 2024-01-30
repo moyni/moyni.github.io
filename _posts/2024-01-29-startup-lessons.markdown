@@ -6,7 +6,7 @@ date:   2024-01-29 20:37:00 +0000
 tag: 
 image: startup-lessons.jpg
 permalink: /startup-lessons
-related-1: "career plan"
+related-1: "career-plan"
 related-2: "resume"
 description: "Sometimes contradictory learnings from spending 11 years in startups"
 
