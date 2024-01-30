@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "startup lessons / eleven lessons from eleven years"
-short-tag: "startup-lessons"
+short-tag: "startup lessons"
 date:   2024-01-29 20:37:00 +0000
 tag: 
 image: startup-lessons.jpg
