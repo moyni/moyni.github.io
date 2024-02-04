@@ -2,7 +2,7 @@
 layout: post
 title:  "nurture / building a self-developing leadership team"
 short-tag: "self-developing teams"
-date:   2024-02-04 10:54:00 +0000
+date:   2024-02-05 10:54:00 +0000
 tag: 
 image: self-developing-teams.jpg
 permalink: /career-plan
