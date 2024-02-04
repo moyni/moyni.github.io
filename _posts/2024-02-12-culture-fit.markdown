@@ -2,7 +2,7 @@
 layout: post
 title:  "culture fit / picking apart the spectre"
 short-tag: "culture fit"
-date:   2024-02-08 09:39:00 +0000
+date:   2024-02-12 09:39:00 +0000
 tag: 
 image: culture-fit.jpg
 permalink: /culture-fit
