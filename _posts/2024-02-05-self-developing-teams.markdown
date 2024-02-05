@@ -2,10 +2,10 @@
 layout: post
 title:  "nurture / building a self-developing leadership team"
 short-tag: "self-developing teams"
-date:   2024-02-05 10:54:00 +0000
+date:   2024-02-05 09:54:00 +0000
 tag: 
 image: self-developing-teams.jpg
-permalink: /career-plan
+permalink: /self-developing-teams
 related-1: "teambuilding"
 related-2: "better feedback"
 description: "Your leadership team isn't just a bunch of smart people: it's a team."
