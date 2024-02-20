@@ -2,7 +2,7 @@
 layout: post
 title:  "TLDR / crisp clear communication"
 short-tag: "TLDR"
-date:   2024-02-20 09:59:00 +0000
+date:   2024-02-20 15:28:00 +0000
 tag: 
 image: tldr.jpg
 permalink: /TLDR
